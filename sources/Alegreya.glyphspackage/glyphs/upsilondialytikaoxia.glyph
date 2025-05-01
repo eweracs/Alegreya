@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = upsilondialytikaoxia;
+kernLeft = upsilon;
+kernRight = upsilon;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (30,0);
+ref = dialytikaoxia;
+}
+);
+width = 457;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (31,0);
+ref = dialytikaoxia;
+}
+);
+width = 438;
+}
+);
+production = uni1FE3;
+unicode = 8163;
+}

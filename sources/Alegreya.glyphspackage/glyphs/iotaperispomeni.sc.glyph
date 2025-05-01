@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = iotaperispomeni.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (-33,25);
+ref = perispomeni;
+}
+);
+width = 319;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (-31,31);
+ref = perispomeni;
+}
+);
+width = 322;
+}
+);
+production = uni1FD6.sc;
+}

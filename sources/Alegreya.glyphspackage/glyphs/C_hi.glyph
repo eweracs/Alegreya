@@ -1,0 +1,27 @@
+{
+color = 10;
+glyphname = Chi;
+kernLeft = X;
+kernRight = X;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = X;
+}
+);
+width = 656;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = X;
+}
+);
+width = 711;
+}
+);
+unicode = 935;
+}

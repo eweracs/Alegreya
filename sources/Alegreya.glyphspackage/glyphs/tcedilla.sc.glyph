@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = tcedilla.sc;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = t.sc;
+},
+{
+alignment = -1;
+pos = (43,0);
+ref = cedillacomb;
+}
+);
+width = 474;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = t.sc;
+},
+{
+alignment = -1;
+pos = (69,0);
+ref = cedillacomb;
+}
+);
+width = 511;
+}
+);
+production = uni0163.sc;
+}

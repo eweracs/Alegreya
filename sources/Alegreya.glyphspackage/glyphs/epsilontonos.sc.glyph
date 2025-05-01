@@ -1,0 +1,38 @@
+{
+color = 10;
+glyphname = epsilontonos.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = epsilon.sc;
+},
+{
+alignment = 1;
+anchor = top;
+pos = (56,45);
+ref = tonos;
+}
+);
+width = 508;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = epsilon.sc;
+},
+{
+alignment = 1;
+anchor = top;
+pos = (70,31);
+ref = tonos;
+}
+);
+width = 516;
+}
+);
+}

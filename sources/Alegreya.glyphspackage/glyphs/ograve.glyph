@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = ograve;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (54,0);
+ref = gravecomb;
+}
+);
+width = 498;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (61,0);
+ref = gravecomb;
+}
+);
+width = 509;
+}
+);
+unicode = 242;
+}

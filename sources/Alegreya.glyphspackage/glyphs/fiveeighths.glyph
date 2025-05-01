@@ -1,0 +1,43 @@
+{
+color = 5;
+glyphname = fiveeighths;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = five.numr;
+},
+{
+pos = (290,0);
+ref = fraction;
+},
+{
+pos = (415,0);
+ref = eight.dnom;
+}
+);
+width = 742;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = five.numr;
+},
+{
+pos = (322,0);
+ref = fraction;
+},
+{
+pos = (509,0);
+ref = eight.dnom;
+}
+);
+width = 855;
+}
+);
+metricLeft = five.numr;
+metricRight = five.numr;
+unicode = 8541;
+}

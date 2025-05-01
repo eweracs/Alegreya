@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = bullet.case;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,80);
+ref = bullet;
+}
+);
+width = 340;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+pos = (0,70);
+ref = bullet;
+}
+);
+width = 340;
+}
+);
+}

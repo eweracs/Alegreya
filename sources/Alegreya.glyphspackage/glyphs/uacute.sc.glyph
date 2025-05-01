@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = uacute.sc;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = u.sc;
+},
+{
+alignment = 1;
+pos = (60,45);
+ref = acutecomb;
+}
+);
+width = 575;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = u.sc;
+},
+{
+alignment = 1;
+pos = (27,31);
+ref = acutecomb;
+}
+);
+width = 528;
+}
+);
+}

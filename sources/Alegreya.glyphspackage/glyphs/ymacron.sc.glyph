@@ -1,0 +1,35 @@
+{
+color = 5;
+glyphname = ymacron.sc;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (38,45);
+ref = macroncomb;
+}
+);
+width = 475;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (85,31);
+ref = macroncomb;
+}
+);
+width = 578;
+}
+);
+production = uni0233.sc;
+}

@@ -1,0 +1,38 @@
+{
+color = 1;
+glyphname = blackDiamond;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(431,229,l),
+(222,438,l),
+(13,229,l),
+(222,20,l)
+);
+}
+);
+width = 444;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(434,229,l),
+(225,438,l),
+(16,229,l),
+(225,20,l)
+);
+}
+);
+width = 450;
+}
+);
+production = uni25C6;
+unicode = 9670;
+}

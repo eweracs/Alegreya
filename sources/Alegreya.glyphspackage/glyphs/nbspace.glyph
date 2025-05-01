@@ -1,0 +1,16 @@
+{
+color = 1;
+glyphname = nbspace;
+layers = (
+{
+layerId = UUID0;
+width = 198;
+},
+{
+layerId = UUID1;
+width = 144;
+}
+);
+production = uni00A0;
+unicode = 160;
+}

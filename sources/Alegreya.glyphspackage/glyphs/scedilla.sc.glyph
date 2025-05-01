@@ -1,0 +1,38 @@
+{
+color = 10;
+glyphname = scedilla.sc;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = s.sc;
+},
+{
+alignment = -1;
+pos = (23,0);
+ref = cedillacomb;
+}
+);
+width = 459;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = s.sc;
+},
+{
+alignment = -1;
+pos = (35,0);
+ref = cedillacomb;
+}
+);
+width = 474;
+}
+);
+}

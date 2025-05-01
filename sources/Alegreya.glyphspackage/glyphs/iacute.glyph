@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = iacute;
+kernLeft = n;
+kernRight = i;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-91,0);
+ref = acutecomb;
+}
+);
+width = 282;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-82,0);
+ref = acutecomb;
+}
+);
+width = 305;
+}
+);
+unicode = 237;
+}

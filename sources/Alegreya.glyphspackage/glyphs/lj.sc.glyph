@@ -1,0 +1,35 @@
+{
+color = 5;
+glyphname = lj.sc;
+kernLeft = H;
+kernRight = J;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (442,0);
+ref = j.sc;
+}
+);
+width = 734;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = l.sc;
+},
+{
+pos = (482,0);
+ref = j.sc;
+}
+);
+width = 779;
+}
+);
+production = uni01C9.sc;
+}

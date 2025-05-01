@@ -1,0 +1,27 @@
+{
+glyphname = "qa-cy";
+kernLeft = o;
+kernRight = q;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = q;
+}
+);
+width = 516;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = q;
+}
+);
+width = 518;
+}
+);
+production = uni051B;
+unicode = 1307;
+}

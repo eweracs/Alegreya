@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = rhodasia;
+kernLeft = rho;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = rho;
+},
+{
+pos = (53,0);
+ref = dasia;
+}
+);
+width = 500;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = rho;
+},
+{
+pos = (57,0);
+ref = dasia;
+}
+);
+width = 495;
+}
+);
+production = uni1FE5;
+unicode = 8165;
+}

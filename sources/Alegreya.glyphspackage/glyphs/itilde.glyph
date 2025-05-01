@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = itilde;
+kernLeft = n;
+kernRight = i;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (-63,0);
+ref = tilde;
+}
+);
+width = 282;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = idotless;
+},
+{
+alignment = -1;
+pos = (-41,0);
+ref = tilde;
+}
+);
+width = 305;
+}
+);
+unicode = 297;
+}

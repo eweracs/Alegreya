@@ -1,0 +1,27 @@
+{
+color = 4;
+glyphname = ogonek;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = 1;
+ref = ogonekcomb;
+}
+);
+width = 398;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = 1;
+ref = ogonekcomb;
+}
+);
+width = 398;
+}
+);
+unicode = 731;
+}

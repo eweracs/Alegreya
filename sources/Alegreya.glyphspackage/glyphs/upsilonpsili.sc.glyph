@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = upsilonpsili.sc;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = upsilon.sc;
+},
+{
+pos = (38,45);
+ref = psili;
+}
+);
+width = 471;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = upsilon.sc;
+},
+{
+pos = (106,31);
+ref = psili;
+}
+);
+width = 551;
+}
+);
+production = uni1F50.sc;
+}

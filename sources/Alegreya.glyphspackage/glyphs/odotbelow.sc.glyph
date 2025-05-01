@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = odotbelow.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (91,0);
+ref = dotbelowcomb;
+}
+);
+width = 585;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (154,0);
+ref = dotbelowcomb;
+}
+);
+width = 554;
+}
+);
+production = uni1ECD.sc;
+}

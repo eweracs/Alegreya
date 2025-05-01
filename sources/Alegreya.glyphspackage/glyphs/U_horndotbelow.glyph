@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = Uhorndotbelow;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = Uhorn;
+},
+{
+alignment = -1;
+pos = (143,0);
+ref = dotbelowcomb;
+}
+);
+width = 691;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = Uhorn;
+},
+{
+alignment = -1;
+pos = (206,0);
+ref = dotbelowcomb;
+}
+);
+width = 667;
+}
+);
+production = uni1EF0;
+unicode = 7920;
+}

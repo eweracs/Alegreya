@@ -1,0 +1,37 @@
+{
+color = 5;
+glyphname = tdieresis.sc;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = t.sc;
+},
+{
+alignment = 1;
+pos = (38,45);
+ref = dieresiscomb;
+}
+);
+width = 474;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = t.sc;
+},
+{
+alignment = 1;
+pos = (57,31);
+ref = dieresiscomb;
+}
+);
+width = 511;
+}
+);
+production = uni1E97.sc;
+}

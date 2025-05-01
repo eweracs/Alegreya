@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = idotaccent.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (-37,45);
+ref = dotaccentcomb;
+}
+);
+width = 319;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = i.sc;
+},
+{
+pos = (-35,31);
+ref = dotaccentcomb;
+}
+);
+width = 322;
+}
+);
+production = i.loclTRK.sc;
+}

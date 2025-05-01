@@ -1,0 +1,25 @@
+{
+glyphname = koroniscomb;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = koronis;
+}
+);
+width = 171;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = koronis;
+}
+);
+width = 246;
+}
+);
+production = uni0343;
+unicode = 835;
+}

@@ -1,0 +1,38 @@
+{
+color = 4;
+glyphname = Ymacron;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Y;
+},
+{
+alignment = 1;
+pos = (79,0);
+ref = macroncomb.case;
+}
+);
+width = 538;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = Y;
+},
+{
+alignment = 1;
+pos = (148,0);
+ref = macroncomb.case;
+}
+);
+width = 663;
+}
+);
+production = uni0232;
+unicode = 562;
+}

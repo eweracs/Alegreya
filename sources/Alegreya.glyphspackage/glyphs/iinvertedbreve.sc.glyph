@@ -1,0 +1,37 @@
+{
+color = 5;
+glyphname = iinvertedbreve.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = i.sc;
+},
+{
+alignment = 1;
+pos = (-16,45);
+ref = breveinvertedcomb;
+}
+);
+width = 319;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = i.sc;
+},
+{
+alignment = 1;
+pos = (-47,31);
+ref = breveinvertedcomb;
+}
+);
+width = 322;
+}
+);
+production = uni020B.sc;
+}

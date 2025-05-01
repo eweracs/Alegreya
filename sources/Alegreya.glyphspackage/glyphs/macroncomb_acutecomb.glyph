@@ -1,0 +1,59 @@
+{
+color = 5;
+glyphname = macroncomb_acutecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (200,452);
+},
+{
+name = top;
+pos = (200,817);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+pos = (0,-60);
+ref = macroncomb;
+},
+{
+alignment = -1;
+pos = (-40,-94);
+ref = acutecomb.case;
+}
+);
+width = 398;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (204,472);
+},
+{
+name = top;
+pos = (204,857);
+}
+);
+layerId = UUID1;
+shapes = (
+{
+pos = (0,-40);
+ref = macroncomb;
+},
+{
+alignment = -1;
+pos = (-14,-18);
+ref = acutecomb.case;
+}
+);
+width = 398;
+}
+);
+metricLeft = "=macroncomb";
+metricRight = "=macroncomb";
+production = uni03040301;
+}

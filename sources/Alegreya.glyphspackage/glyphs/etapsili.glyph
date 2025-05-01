@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = etapsili;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (93,0);
+ref = psili;
+}
+);
+width = 515;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (103,0);
+ref = psili;
+}
+);
+width = 508;
+}
+);
+production = uni1F20;
+unicode = 7968;
+}

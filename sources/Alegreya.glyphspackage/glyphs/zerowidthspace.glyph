@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = zerowidthspace;
+layers = (
+{
+layerId = UUID0;
+width = 0;
+},
+{
+layerId = UUID1;
+width = 0;
+}
+);
+production = uni200B;
+unicode = 8203;
+}

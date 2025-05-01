@@ -1,0 +1,34 @@
+{
+glyphname = "chedieresis-cy.sc";
+kernLeft = "Che-cy";
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "che-cy.sc";
+},
+{
+pos = (56,46);
+ref = dieresiscomb;
+}
+);
+width = 521;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "che-cy.sc";
+},
+{
+pos = (99,31);
+ref = dieresiscomb;
+}
+);
+width = 589;
+}
+);
+production = uni04F5.sc;
+}

@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Omegavaria;
+kernLeft = Omegatonos;
+kernRight = Omega;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (76,0);
+ref = Omega;
+},
+{
+pos = (-64,-54);
+ref = varia;
+}
+);
+width = 877;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (179,0);
+ref = Omega;
+},
+{
+pos = (-54,-112);
+ref = varia;
+}
+);
+width = 927;
+}
+);
+metricLeft = "=Omegatonos";
+metricRight = Omega;
+production = uni1FFA;
+unicode = 8186;
+}

@@ -1,0 +1,43 @@
+{
+color = 5;
+glyphname = seveneighths;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (289,0);
+ref = fraction;
+},
+{
+pos = (414,0);
+ref = eight.dnom;
+}
+);
+width = 741;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (320,0);
+ref = fraction;
+},
+{
+pos = (507,0);
+ref = eight.dnom;
+}
+);
+width = 853;
+}
+);
+metricLeft = seven.numr;
+metricRight = seven.numr;
+unicode = 8542;
+}

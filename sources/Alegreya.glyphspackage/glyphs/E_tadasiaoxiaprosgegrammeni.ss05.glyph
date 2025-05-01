@@ -1,0 +1,41 @@
+{
+color = 10;
+glyphname = Etadasiaoxiaprosgegrammeni.ss05;
+kernLeft = asterisk;
+kernRight = iota;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (226,0);
+ref = Etaprosgegrammeni.ss05;
+},
+{
+pos = (-88,-36);
+ref = dasiaoxia.case;
+}
+);
+width = 1248;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (394,0);
+ref = Etaprosgegrammeni.ss05;
+},
+{
+pos = (-32,-76);
+ref = dasiaoxia.case;
+}
+);
+width = 1406;
+}
+);
+metricLeft = "=Etatonos";
+metricRight = "=iota";
+production = uni1F9D.ss05;
+}

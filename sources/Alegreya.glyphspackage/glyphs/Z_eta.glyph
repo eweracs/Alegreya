@@ -1,0 +1,27 @@
+{
+color = 10;
+glyphname = Zeta;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Z;
+}
+);
+width = 568;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = Z;
+}
+);
+width = 594;
+}
+);
+unicode = 918;
+}

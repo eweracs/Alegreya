@@ -1,0 +1,29 @@
+{
+color = 10;
+glyphname = quotesinglbase;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = comma;
+}
+);
+width = 238;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = comma;
+}
+);
+width = 238;
+}
+);
+unicode = 8218;
+}

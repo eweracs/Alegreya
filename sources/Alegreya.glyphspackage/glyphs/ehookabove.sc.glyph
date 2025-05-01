@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = ehookabove.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (58,25);
+ref = hookabovecomb;
+}
+);
+width = 508;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (94,31);
+ref = hookabovecomb;
+}
+);
+width = 516;
+}
+);
+production = uni1EBB.sc;
+}

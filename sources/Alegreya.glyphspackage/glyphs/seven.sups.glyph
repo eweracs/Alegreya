@@ -1,0 +1,26 @@
+{
+color = 4;
+glyphname = seven.sups;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = sevensuperior;
+}
+);
+width = 289;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = sevensuperior;
+}
+);
+width = 320;
+}
+);
+metricLeft = sevensuperior;
+metricRight = sevensuperior;
+}

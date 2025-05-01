@@ -1,0 +1,38 @@
+{
+color = 5;
+glyphname = Emacronacute;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = E;
+},
+{
+alignment = 1;
+pos = (126,10);
+ref = macroncomb_acutecomb.case;
+}
+);
+width = 591;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = E;
+},
+{
+alignment = 1;
+pos = (122,0);
+ref = macroncomb_acutecomb.case;
+}
+);
+width = 603;
+}
+);
+production = uni1E16;
+unicode = 7702;
+}

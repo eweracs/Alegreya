@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = upsilonmacron.sc;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = upsilon.sc;
+},
+{
+pos = (36,45);
+ref = macroncomb;
+}
+);
+width = 471;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = upsilon.sc;
+},
+{
+pos = (72,31);
+ref = macroncomb;
+}
+);
+width = 551;
+}
+);
+production = uni1FE1.sc;
+}

@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = rhodasia.sc;
+kernLeft = H;
+kernRight = P;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = rho.sc;
+},
+{
+pos = (49,45);
+ref = dasia;
+}
+);
+width = 479;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = rho.sc;
+},
+{
+pos = (64,31);
+ref = dasia;
+}
+);
+width = 523;
+}
+);
+production = uni1FE5.sc;
+}

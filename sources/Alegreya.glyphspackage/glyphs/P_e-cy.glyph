@@ -1,0 +1,28 @@
+{
+color = 10;
+glyphname = "Pe-cy";
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Pi;
+}
+);
+width = 710;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = Pi;
+}
+);
+width = 738;
+}
+);
+production = uni041F;
+unicode = 1055;
+}

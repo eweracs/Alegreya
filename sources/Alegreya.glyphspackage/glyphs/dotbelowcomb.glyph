@@ -1,0 +1,75 @@
+{
+color = 1;
+glyphname = dotbelowcomb;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (202,0);
+},
+{
+name = bottom;
+pos = (200,-192);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(235,-192,o),
+(259,-164,o),
+(259,-130,cs),
+(259,-99,o),
+(239,-73,o),
+(202,-73,cs),
+(164,-73,o),
+(140,-101,o),
+(140,-135,cs),
+(140,-164,o),
+(158,-192,o),
+(196,-192,cs)
+);
+}
+);
+width = 398;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (123,0);
+},
+{
+name = bottom;
+pos = (119,-232);
+}
+);
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(177,-232,o),
+(216,-192,o),
+(216,-128,cs),
+(216,-68,o),
+(182,-33,o),
+(123,-33,cs),
+(60,-33,o),
+(21,-73,o),
+(21,-137,cs),
+(21,-198,o),
+(54,-232,o),
+(115,-232,cs)
+);
+}
+);
+width = 238;
+}
+);
+unicode = 803;
+}

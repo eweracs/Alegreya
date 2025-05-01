@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = epsilonoxia;
+kernLeft = epsilon;
+kernRight = epsilon;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = epsilon;
+},
+{
+pos = (26,0);
+ref = oxia;
+}
+);
+width = 421;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = epsilon;
+},
+{
+pos = (26,0);
+ref = oxia;
+}
+);
+width = 434;
+}
+);
+production = uni1F73;
+unicode = 8051;
+}

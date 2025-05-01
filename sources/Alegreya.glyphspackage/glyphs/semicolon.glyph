@@ -1,0 +1,37 @@
+{
+color = 10;
+glyphname = semicolon;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = comma;
+},
+{
+alignment = -1;
+pos = (-4,280);
+ref = period;
+}
+);
+width = 238;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = comma;
+},
+{
+alignment = -1;
+pos = (0,265);
+ref = period;
+}
+);
+width = 238;
+}
+);
+unicode = 59;
+}

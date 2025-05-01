@@ -1,0 +1,52 @@
+{
+color = 10;
+glyphname = Eogonek;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (225,0);
+ref = ogonekcomb;
+}
+);
+width = 591;
+},
+{
+background = {
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (258,0);
+ref = ogonekcomb;
+}
+);
+};
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (258,0);
+ref = ogonekcomb;
+}
+);
+width = 603;
+}
+);
+unicode = 280;
+}

@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = ucaron;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (75,0);
+ref = caroncomb;
+}
+);
+width = 541;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = u;
+},
+{
+alignment = -1;
+pos = (75,0);
+ref = caroncomb;
+}
+);
+width = 553;
+}
+);
+production = uni01D4;
+unicode = 468;
+}

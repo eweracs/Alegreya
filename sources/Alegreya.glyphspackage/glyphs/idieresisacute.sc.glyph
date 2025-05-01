@@ -1,0 +1,37 @@
+{
+color = 5;
+glyphname = idieresisacute.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = i.sc;
+},
+{
+alignment = 1;
+pos = (-37,-140);
+ref = dieresiscomb_acutecomb.case;
+}
+);
+width = 319;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = i.sc;
+},
+{
+alignment = 1;
+pos = (-35,-144);
+ref = dieresiscomb_acutecomb.case;
+}
+);
+width = 322;
+}
+);
+production = uni1E2F.sc;
+}

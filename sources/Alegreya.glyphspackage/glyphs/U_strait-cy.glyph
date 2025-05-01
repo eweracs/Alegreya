@@ -1,0 +1,27 @@
+{
+glyphname = "Ustrait-cy";
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Y;
+}
+);
+width = 538;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = Y;
+}
+);
+width = 663;
+}
+);
+production = Ustraitcy;
+unicode = 1198;
+}

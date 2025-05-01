@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = Upsilonvrachy;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Upsilon;
+},
+{
+pos = (66,-10);
+ref = brevecomb.case;
+}
+);
+width = 535;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = Upsilon;
+},
+{
+pos = (120,0);
+ref = brevecomb.case;
+}
+);
+width = 638;
+}
+);
+production = uni1FE8;
+unicode = 8168;
+}

@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = wgrave;
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (157,0);
+ref = gravecomb;
+}
+);
+width = 705;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (192,0);
+ref = gravecomb;
+}
+);
+width = 777;
+}
+);
+unicode = 7809;
+}

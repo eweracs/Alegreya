@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = wdieresis;
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (154,0);
+ref = dieresiscomb;
+}
+);
+width = 705;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = w;
+},
+{
+alignment = -1;
+pos = (198,0);
+ref = dieresiscomb;
+}
+);
+width = 777;
+}
+);
+unicode = 7813;
+}

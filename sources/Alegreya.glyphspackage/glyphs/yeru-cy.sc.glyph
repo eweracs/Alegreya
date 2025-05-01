@@ -1,0 +1,53 @@
+{
+glyphname = "yeru-cy.sc";
+kernLeft = h.sc;
+kernRight = h.sc;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (371,497);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = "softsign-cy.cond.sc";
+},
+{
+pos = (420,0);
+ref = i.sc;
+}
+);
+width = 739;
+},
+{
+anchors = (
+{
+name = top;
+pos = (419,503);
+}
+);
+layerId = UUID1;
+shapes = (
+{
+ref = "softsign-cy.cond.sc";
+},
+{
+pos = (516,0);
+ref = i.sc;
+}
+);
+width = 838;
+}
+);
+metricLeft = "=i.sc";
+metricRight = "=i.sc";
+production = uni044B.sc;
+userData = {
+RMXScaler = {
+source = "Yeru-cy";
+};
+};
+}

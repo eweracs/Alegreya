@@ -1,0 +1,84 @@
+{
+color = 4;
+glyphname = tildecomb_dieresiscomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (200,637);
+},
+{
+name = top;
+pos = (200,935);
+}
+);
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (0,140);
+ref = tildecomb;
+},
+{
+alignment = -1;
+angle = -2.99803;
+pos = (-75,139);
+ref = acutecomb.case;
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+pos = (0,140);
+ref = tildecomb;
+},
+{
+pos = (1,296);
+ref = dieresiscomb;
+}
+);
+width = 398;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (184,647);
+},
+{
+name = top;
+pos = (184,1036);
+}
+);
+background = {
+shapes = (
+{
+alignment = -1;
+pos = (15,189);
+ref = tildecomb;
+scale = (0.9259,0.9259);
+}
+);
+};
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (0,187);
+ref = tildecomb;
+scale = (0.9259,0.9259);
+},
+{
+alignment = -1;
+pos = (3,365);
+ref = dieresiscomb;
+scale = (0.9246,0.9246);
+}
+);
+width = 369;
+}
+);
+production = uni03030308.case;
+}

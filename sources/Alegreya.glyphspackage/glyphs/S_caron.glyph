@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = Scaron;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = S;
+},
+{
+alignment = -1;
+pos = (63,0);
+ref = caroncomb.case;
+}
+);
+width = 530;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = S;
+},
+{
+alignment = -1;
+pos = (22,0);
+ref = caroncomb.case;
+}
+);
+width = 551;
+}
+);
+unicode = 352;
+}

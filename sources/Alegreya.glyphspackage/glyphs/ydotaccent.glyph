@@ -1,0 +1,36 @@
+{
+color = 5;
+glyphname = ydotaccent;
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (24,0);
+ref = dotaccentcomb;
+}
+);
+width = 446;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = y;
+},
+{
+pos = (44,0);
+ref = dotaccentcomb;
+}
+);
+width = 486;
+}
+);
+production = uni1E8F;
+unicode = 7823;
+}

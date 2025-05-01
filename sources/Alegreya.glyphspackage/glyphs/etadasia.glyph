@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = etadasia;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (92,0);
+ref = dasia;
+}
+);
+width = 515;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (93,0);
+ref = dasia;
+}
+);
+width = 508;
+}
+);
+production = uni1F21;
+unicode = 7969;
+}

@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = alphavrachy.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = alpha.sc;
+},
+{
+pos = (56,45);
+ref = brevecomb;
+}
+);
+width = 510;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = alpha.sc;
+},
+{
+pos = (94,31);
+ref = brevecomb;
+}
+);
+width = 586;
+}
+);
+production = uni1FB0.sc;
+}

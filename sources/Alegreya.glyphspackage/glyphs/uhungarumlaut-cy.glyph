@@ -1,0 +1,35 @@
+{
+glyphname = "uhungarumlaut-cy";
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "u-cy";
+},
+{
+pos = (78,0);
+ref = hungarumlautcomb;
+}
+);
+width = 453;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "u-cy";
+},
+{
+pos = (88,0);
+ref = hungarumlautcomb;
+}
+);
+width = 514;
+}
+);
+production = uni04F3;
+unicode = 1267;
+}

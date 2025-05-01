@@ -1,0 +1,43 @@
+{
+color = 5;
+glyphname = threeeighths;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = three.numr;
+},
+{
+pos = (293,0);
+ref = fraction;
+},
+{
+pos = (418,0);
+ref = eight.dnom;
+}
+);
+width = 745;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = three.numr;
+},
+{
+pos = (329,0);
+ref = fraction;
+},
+{
+pos = (516,0);
+ref = eight.dnom;
+}
+);
+width = 862;
+}
+);
+metricLeft = three.numr;
+metricRight = three.numr;
+unicode = 8540;
+}

@@ -1,0 +1,26 @@
+{
+color = 4;
+glyphname = nine.sups;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = ninesuperior;
+}
+);
+width = 312;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = ninesuperior;
+}
+);
+width = 348;
+}
+);
+metricLeft = ninesuperior;
+metricRight = ninesuperior;
+}

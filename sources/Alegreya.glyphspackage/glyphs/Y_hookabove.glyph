@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = Yhookabove;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+alignment = -1;
+pos = (96,125);
+ref = hookabovecomb;
+}
+);
+width = 538;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+alignment = -1;
+pos = (156,145);
+ref = hookabovecomb;
+}
+);
+width = 663;
+}
+);
+production = uni1EF6;
+unicode = 7926;
+}

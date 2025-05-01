@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = emdash.case;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,60);
+ref = emdash;
+}
+);
+width = 918;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+pos = (0,70);
+ref = emdash;
+}
+);
+width = 830;
+}
+);
+}

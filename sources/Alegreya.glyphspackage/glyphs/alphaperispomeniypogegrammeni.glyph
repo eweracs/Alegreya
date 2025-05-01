@@ -1,0 +1,38 @@
+{
+color = 10;
+glyphname = alphaperispomeniypogegrammeni;
+kernLeft = alpha;
+kernRight = alpha;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = alphaypogegrammeni;
+},
+{
+alignment = -1;
+pos = (102,-35);
+ref = perispomeni;
+}
+);
+width = 539;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = alphaypogegrammeni;
+},
+{
+alignment = -1;
+pos = (97,-10);
+ref = perispomeni;
+}
+);
+width = 519;
+}
+);
+production = uni1FB7;
+unicode = 8119;
+}

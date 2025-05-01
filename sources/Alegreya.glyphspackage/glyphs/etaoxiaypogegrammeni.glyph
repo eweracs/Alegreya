@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = etaoxiaypogegrammeni;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = etaypogegrammeni;
+},
+{
+pos = (93,0);
+ref = oxia;
+}
+);
+width = 515;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = etaypogegrammeni;
+},
+{
+pos = (85,0);
+ref = oxia;
+}
+);
+width = 508;
+}
+);
+production = uni1FC4;
+unicode = 8132;
+}

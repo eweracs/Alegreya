@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = scommaaccent.sc;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = s.sc;
+},
+{
+alignment = -1;
+pos = (29,0);
+ref = commaaccentcomb;
+}
+);
+width = 459;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = s.sc;
+},
+{
+alignment = -1;
+pos = (28,0);
+ref = commaaccentcomb;
+}
+);
+width = 474;
+}
+);
+production = uni0219.sc;
+}

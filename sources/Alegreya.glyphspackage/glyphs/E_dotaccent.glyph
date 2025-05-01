@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = Edotaccent;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (111,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 591;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (130,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 603;
+}
+);
+unicode = 278;
+}

@@ -1,0 +1,36 @@
+{
+color = 5;
+glyphname = otildedieresis;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (49,0);
+ref = tildecomb_dieresiscomb;
+}
+);
+width = 498;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (85,0);
+ref = tildecomb_dieresiscomb;
+}
+);
+width = 538;
+}
+);
+production = uni1E4F;
+unicode = 7759;
+}

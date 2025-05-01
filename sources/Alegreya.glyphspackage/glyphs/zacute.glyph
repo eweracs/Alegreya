@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = zacute;
+kernLeft = z;
+kernRight = z;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = z;
+},
+{
+alignment = -1;
+pos = (37,0);
+ref = acutecomb;
+}
+);
+width = 460;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = z;
+},
+{
+alignment = -1;
+pos = (49,0);
+ref = acutecomb;
+}
+);
+width = 456;
+}
+);
+unicode = 378;
+}

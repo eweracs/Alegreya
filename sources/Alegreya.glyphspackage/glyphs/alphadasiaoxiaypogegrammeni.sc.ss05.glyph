@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = alphadasiaoxiaypogegrammeni.sc.ss05;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = alphaypogegrammeni.sc.ss05;
+},
+{
+pos = (29,45);
+ref = dasiaoxia;
+}
+);
+width = 829;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = alphaypogegrammeni.sc.ss05;
+},
+{
+pos = (29,25);
+ref = dasiaoxia;
+}
+);
+width = 905;
+}
+);
+production = uni1F85.sc.ss05;
+}

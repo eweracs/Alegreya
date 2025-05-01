@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = ocircumflextilde.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (94,45);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 585;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (78,31);
+ref = circumflexcomb_tildecomb;
+}
+);
+width = 554;
+}
+);
+production = uni1ED7.sc;
+}

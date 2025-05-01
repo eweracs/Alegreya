@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = Ocircumflexgrave;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (152,140);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 692;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (135,145);
+ref = circumflexcomb_gravecomb;
+}
+);
+width = 655;
+}
+);
+production = uni1ED2;
+unicode = 7890;
+}

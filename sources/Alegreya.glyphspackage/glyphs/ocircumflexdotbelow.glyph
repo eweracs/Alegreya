@@ -1,0 +1,50 @@
+{
+color = 10;
+glyphname = ocircumflexdotbelow;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (52,0);
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (45,0);
+ref = dotbelowcomb;
+}
+);
+width = 498;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (70,-1);
+ref = circumflexcomb;
+},
+{
+alignment = -1;
+pos = (135,0);
+ref = dotbelowcomb;
+}
+);
+width = 509;
+}
+);
+production = uni1ED9;
+unicode = 7897;
+}

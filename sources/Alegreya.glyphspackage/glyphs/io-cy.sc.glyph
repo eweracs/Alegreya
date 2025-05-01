@@ -1,0 +1,34 @@
+{
+glyphname = "io-cy.sc";
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "ie-cy.sc";
+},
+{
+pos = (57,45);
+ref = dieresiscomb;
+}
+);
+width = 508;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "ie-cy.sc";
+},
+{
+pos = (69,31);
+ref = dieresiscomb;
+}
+);
+width = 516;
+}
+);
+production = uni0451.sc;
+}

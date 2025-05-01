@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Omegapsiliperispomeniprosgegrammeni;
+kernLeft = Omegatonos;
+kernRight = Omega;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (149,0);
+ref = Omegaprosgegrammeni;
+},
+{
+pos = (-42,-36);
+ref = psiliperispomeni.case;
+}
+);
+width = 950;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (215,0);
+ref = Omegaprosgegrammeni;
+},
+{
+pos = (-77,-76);
+ref = psiliperispomeni.case;
+}
+);
+width = 963;
+}
+);
+metricLeft = "=Omegatonos";
+metricRight = "=Omega";
+production = uni1FAE;
+unicode = 8110;
+}

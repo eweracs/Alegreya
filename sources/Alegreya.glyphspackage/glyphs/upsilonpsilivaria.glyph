@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = upsilonpsilivaria;
+kernLeft = upsilon;
+kernRight = upsilon;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (3,0);
+ref = psilivaria;
+}
+);
+width = 457;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (-15,0);
+ref = psilivaria;
+}
+);
+width = 438;
+}
+);
+production = uni1F52;
+unicode = 8018;
+}

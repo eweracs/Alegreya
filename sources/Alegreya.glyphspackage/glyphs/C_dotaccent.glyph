@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = Cdotaccent;
+kernLeft = O;
+kernRight = C;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = C;
+},
+{
+alignment = -1;
+pos = (160,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 626;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = C;
+},
+{
+alignment = -1;
+pos = (139,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 603;
+}
+);
+unicode = 266;
+}

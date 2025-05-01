@@ -1,0 +1,27 @@
+{
+color = 10;
+glyphname = Kappa;
+kernLeft = H;
+kernRight = X;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = K;
+}
+);
+width = 628;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = K;
+}
+);
+width = 693;
+}
+);
+unicode = 922;
+}

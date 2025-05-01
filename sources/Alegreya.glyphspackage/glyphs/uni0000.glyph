@@ -1,0 +1,14 @@
+{
+glyphname = uni0000;
+layers = (
+{
+layerId = UUID0;
+width = 0;
+},
+{
+layerId = UUID1;
+width = 0;
+}
+);
+unicode = 0;
+}

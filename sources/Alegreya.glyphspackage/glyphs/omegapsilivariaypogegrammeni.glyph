@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = omegapsilivariaypogegrammeni;
+kernLeft = omega;
+kernRight = omega;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = omegaypogegrammeni;
+},
+{
+pos = (104,0);
+ref = psilivaria;
+}
+);
+width = 657;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = omegaypogegrammeni;
+},
+{
+pos = (70,0);
+ref = psilivaria;
+}
+);
+width = 630;
+}
+);
+production = uni1FA2;
+unicode = 8098;
+}

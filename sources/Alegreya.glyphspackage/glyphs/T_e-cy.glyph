@@ -1,0 +1,28 @@
+{
+color = 10;
+glyphname = "Te-cy";
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = T;
+}
+);
+width = 546;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = T;
+}
+);
+width = 593;
+}
+);
+production = uni0422;
+unicode = 1058;
+}

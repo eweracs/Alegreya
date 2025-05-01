@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Alphadasiavariaprosgegrammeni;
+kernLeft = Alphatonos;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (144,0);
+ref = Alphaprosgegrammeni;
+},
+{
+pos = (-53,-36);
+ref = dasiavaria.case;
+}
+);
+width = 728;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (263,0);
+ref = Alphaprosgegrammeni;
+},
+{
+pos = (-27,-76);
+ref = dasiavaria.case;
+}
+);
+width = 939;
+}
+);
+metricLeft = "=Alphatonos";
+metricRight = "=A";
+production = uni1F8B;
+unicode = 8075;
+}

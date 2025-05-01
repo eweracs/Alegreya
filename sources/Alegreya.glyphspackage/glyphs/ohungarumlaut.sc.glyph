@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = ohungarumlaut.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+alignment = 1;
+pos = (144,45);
+ref = hungarumlautcomb;
+}
+);
+width = 585;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = o.sc;
+},
+{
+alignment = 1;
+pos = (111,31);
+ref = hungarumlautcomb;
+}
+);
+width = 554;
+}
+);
+}

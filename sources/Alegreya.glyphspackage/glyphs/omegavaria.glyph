@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = omegavaria;
+kernLeft = omega;
+kernRight = omega;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (128,0);
+ref = varia;
+}
+);
+width = 657;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (99,0);
+ref = varia;
+}
+);
+width = 630;
+}
+);
+production = uni1F7C;
+unicode = 8060;
+}

@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = "Iishort-cy";
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "Ii-cy";
+},
+{
+pos = (176,184);
+ref = "brevecomb-cy.case";
+}
+);
+width = 753;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "Ii-cy";
+},
+{
+pos = (153,173);
+ref = "brevecomb-cy.case";
+}
+);
+width = 749;
+}
+);
+production = uni0419;
+unicode = 1049;
+}

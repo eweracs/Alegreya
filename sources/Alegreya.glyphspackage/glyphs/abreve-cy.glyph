@@ -1,0 +1,35 @@
+{
+glyphname = "abreve-cy";
+kernLeft = a;
+kernRight = n;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "a-cy";
+},
+{
+pos = (21,0);
+ref = "brevecomb-cy";
+}
+);
+width = 461;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "a-cy";
+},
+{
+pos = (36,2);
+ref = "brevecomb-cy";
+}
+);
+width = 491;
+}
+);
+production = uni04D1;
+unicode = 1233;
+}

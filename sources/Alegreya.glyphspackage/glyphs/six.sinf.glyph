@@ -1,0 +1,26 @@
+{
+color = 4;
+glyphname = six.sinf;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = sixinferior;
+}
+);
+width = 312;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = sixinferior;
+}
+);
+width = 348;
+}
+);
+metricLeft = sixinferior;
+metricRight = sixinferior;
+}

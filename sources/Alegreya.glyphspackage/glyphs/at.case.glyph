@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = at.case;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,70);
+ref = at;
+}
+);
+width = 832;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+pos = (0,90);
+ref = at;
+}
+);
+width = 897;
+}
+);
+}

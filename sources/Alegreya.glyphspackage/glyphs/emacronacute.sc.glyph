@@ -1,0 +1,36 @@
+{
+color = 5;
+glyphname = emacronacute.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e.sc;
+},
+{
+alignment = 1;
+pos = (56,45);
+ref = macroncomb_acutecomb;
+}
+);
+width = 508;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (64,31);
+ref = macroncomb_acutecomb;
+}
+);
+width = 516;
+}
+);
+production = uni1E17.sc;
+}

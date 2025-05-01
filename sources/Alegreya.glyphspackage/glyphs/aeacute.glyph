@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = aeacute;
+kernLeft = a;
+kernRight = e;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = ae;
+},
+{
+alignment = -1;
+pos = (154,0);
+ref = acutecomb;
+}
+);
+width = 653;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = ae;
+},
+{
+alignment = -1;
+pos = (154,0);
+ref = acutecomb;
+}
+);
+width = 689;
+}
+);
+unicode = 509;
+}

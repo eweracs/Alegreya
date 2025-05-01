@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = gcommaaccent;
+kernLeft = g;
+kernRight = g;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = g;
+},
+{
+alignment = -1;
+pos = (163,87);
+ref = quoteleft;
+}
+);
+width = 501;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = g;
+},
+{
+alignment = -1;
+pos = (143,177);
+ref = quoteleft;
+}
+);
+width = 522;
+}
+);
+production = uni0123;
+unicode = 291;
+}

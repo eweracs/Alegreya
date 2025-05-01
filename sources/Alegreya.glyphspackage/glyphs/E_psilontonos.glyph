@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = Epsilontonos;
+kernLeft = Etatonos;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (100,0);
+ref = Epsilon;
+},
+{
+pos = (-161,-37);
+ref = tonos;
+}
+);
+width = 691;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (210,0);
+ref = Epsilon;
+},
+{
+pos = (-134,-112);
+ref = tonos;
+}
+);
+width = 813;
+}
+);
+metricLeft = "=Etatonos";
+unicode = 904;
+}

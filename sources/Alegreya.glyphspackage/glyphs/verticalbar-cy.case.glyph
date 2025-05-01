@@ -1,0 +1,27 @@
+{
+export = 0;
+glyphname = "verticalbar-cy.case";
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = 1;
+ref = "verticalbar-cy";
+}
+);
+width = 217;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = 1;
+ref = "verticalbar-cy";
+}
+);
+width = 175;
+}
+);
+production = verticalbarcy.case;
+}

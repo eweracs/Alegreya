@@ -1,0 +1,35 @@
+{
+glyphname = "zedieresis-cy";
+kernLeft = "ze-cy";
+kernRight = "ve-cy";
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "ze-cy";
+},
+{
+pos = (15,0);
+ref = dieresiscomb;
+}
+);
+width = 429;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "ze-cy";
+},
+{
+pos = (22,0);
+ref = dieresiscomb;
+}
+);
+width = 441;
+}
+);
+production = uni04DF;
+unicode = 1247;
+}

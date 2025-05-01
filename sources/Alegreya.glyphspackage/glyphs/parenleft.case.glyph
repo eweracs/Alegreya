@@ -1,0 +1,25 @@
+{
+glyphname = parenleft.case;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,60);
+ref = parenleft;
+}
+);
+width = 275;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+pos = (0,60);
+ref = parenleft;
+}
+);
+width = 309;
+}
+);
+}

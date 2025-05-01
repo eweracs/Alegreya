@@ -1,0 +1,35 @@
+{
+color = 9;
+glyphname = "yerudieresis-cy.sc";
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "yeru-cy.sc";
+},
+{
+pos = (172,45);
+ref = dieresiscomb;
+}
+);
+width = 739;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "yeru-cy.sc";
+},
+{
+pos = (220,31);
+ref = dieresiscomb;
+}
+);
+width = 838;
+}
+);
+production = uni04F9.sc;
+}

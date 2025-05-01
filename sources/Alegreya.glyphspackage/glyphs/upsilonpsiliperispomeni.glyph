@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = upsilonpsiliperispomeni;
+kernLeft = upsilon;
+kernRight = upsilon;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (3,0);
+ref = psiliperispomeni;
+}
+);
+width = 457;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = upsilon;
+},
+{
+pos = (-15,0);
+ref = psiliperispomeni;
+}
+);
+width = 438;
+}
+);
+production = uni1F56;
+unicode = 8022;
+}

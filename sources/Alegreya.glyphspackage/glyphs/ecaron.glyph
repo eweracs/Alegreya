@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = ecaron;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (44,0);
+ref = caroncomb;
+}
+);
+width = 448;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (59,0);
+ref = caroncomb;
+}
+);
+width = 479;
+}
+);
+unicode = 283;
+}

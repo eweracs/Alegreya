@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = increment;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Delta;
+}
+);
+width = 544;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = Delta;
+}
+);
+width = 675;
+}
+);
+production = uni2206;
+unicode = 8710;
+}

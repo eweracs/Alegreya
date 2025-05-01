@@ -1,0 +1,37 @@
+{
+color = 5;
+glyphname = hdotbelow.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = h.sc;
+},
+{
+alignment = 1;
+pos = (118,0);
+ref = dotbelowcomb;
+}
+);
+width = 639;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = h.sc;
+},
+{
+alignment = 1;
+pos = (190,0);
+ref = dotbelowcomb;
+}
+);
+width = 625;
+}
+);
+production = uni1E25.sc;
+}

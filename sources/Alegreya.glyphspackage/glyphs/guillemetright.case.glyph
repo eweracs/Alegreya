@@ -1,0 +1,27 @@
+{
+color = 5;
+glyphname = guillemetright.case;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,80);
+ref = guillemetright;
+}
+);
+width = 427;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+pos = (0,70);
+ref = guillemetright;
+}
+);
+width = 476;
+}
+);
+production = guillemotright.case;
+}

@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = uhornhookabove.sc;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = uhorn.sc;
+},
+{
+alignment = -1;
+pos = (98,25);
+ref = hookabovecomb;
+}
+);
+width = 578;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = uhorn.sc;
+},
+{
+alignment = -1;
+pos = (94,31);
+ref = hookabovecomb;
+}
+);
+width = 557;
+}
+);
+production = uni1EED.sc;
+}

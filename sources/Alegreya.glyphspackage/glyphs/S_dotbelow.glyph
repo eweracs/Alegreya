@@ -1,0 +1,38 @@
+{
+color = 5;
+glyphname = Sdotbelow;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = S;
+},
+{
+alignment = 1;
+pos = (43,0);
+ref = dotbelowcomb;
+}
+);
+width = 530;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = S;
+},
+{
+alignment = 1;
+pos = (131,0);
+ref = dotbelowcomb;
+}
+);
+width = 551;
+}
+);
+production = uni1E62;
+unicode = 7778;
+}

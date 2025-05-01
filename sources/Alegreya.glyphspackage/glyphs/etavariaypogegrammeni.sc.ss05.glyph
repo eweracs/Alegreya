@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = etavariaypogegrammeni.sc.ss05;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = etaypogegrammeni.sc.ss05;
+},
+{
+pos = (118,45);
+ref = varia;
+}
+);
+width = 958;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = etaypogegrammeni.sc.ss05;
+},
+{
+pos = (116,31);
+ref = varia;
+}
+);
+width = 944;
+}
+);
+production = uni1FC2.sc.ss05;
+}

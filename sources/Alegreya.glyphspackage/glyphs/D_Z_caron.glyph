@@ -1,0 +1,36 @@
+{
+color = 4;
+glyphname = DZcaron;
+kernLeft = H;
+kernRight = Z;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = D;
+},
+{
+pos = (703,0);
+ref = Zcaron;
+}
+);
+width = 1271;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = D;
+},
+{
+pos = (682,0);
+ref = Zcaron;
+}
+);
+width = 1276;
+}
+);
+production = uni01C4;
+unicode = 452;
+}

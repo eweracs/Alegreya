@@ -1,0 +1,27 @@
+{
+color = 10;
+glyphname = sigmafinal.sc;
+kernLeft = X;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = sigma.sc;
+}
+);
+width = 486;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = sigma.sc;
+}
+);
+width = 543;
+}
+);
+production = uni03C2.sc;
+}

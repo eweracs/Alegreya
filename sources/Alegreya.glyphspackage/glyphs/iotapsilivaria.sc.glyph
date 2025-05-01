@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = iotapsilivaria.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = iota.sc;
+},
+{
+pos = (-66,45);
+ref = psilivaria;
+}
+);
+width = 319;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = iota.sc;
+},
+{
+pos = (-65,31);
+ref = psilivaria;
+}
+);
+width = 322;
+}
+);
+production = uni1F32.sc;
+}

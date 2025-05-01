@@ -1,0 +1,35 @@
+{
+color = 5;
+glyphname = ndotaccent.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = n.sc;
+},
+{
+pos = (108,45);
+ref = dotaccentcomb;
+}
+);
+width = 614;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = n.sc;
+},
+{
+pos = (116,31);
+ref = dotaccentcomb;
+}
+);
+width = 630;
+}
+);
+production = uni1E45.sc;
+}

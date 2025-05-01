@@ -1,0 +1,28 @@
+{
+color = 4;
+glyphname = bulletoperator;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = 1;
+ref = periodcentered;
+}
+);
+width = 238;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = 1;
+ref = periodcentered;
+}
+);
+width = 238;
+}
+);
+production = uni2219;
+unicode = 8729;
+}

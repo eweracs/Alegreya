@@ -1,0 +1,38 @@
+{
+color = 5;
+glyphname = Tdotbelow;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = T;
+},
+{
+alignment = 1;
+pos = (71,0);
+ref = dotbelowcomb;
+}
+);
+width = 546;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = T;
+},
+{
+alignment = 1;
+pos = (174,0);
+ref = dotbelowcomb;
+}
+);
+width = 593;
+}
+);
+production = uni1E6C;
+unicode = 7788;
+}

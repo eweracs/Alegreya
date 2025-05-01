@@ -1,0 +1,37 @@
+{
+color = 5;
+glyphname = ndotbelow.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = n.sc;
+},
+{
+alignment = 1;
+pos = (105,0);
+ref = dotbelowcomb;
+}
+);
+width = 614;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = n.sc;
+},
+{
+alignment = 1;
+pos = (192,0);
+ref = dotbelowcomb;
+}
+);
+width = 630;
+}
+);
+production = uni1E47.sc;
+}

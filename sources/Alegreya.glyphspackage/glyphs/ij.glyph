@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = ij;
+kernLeft = n;
+kernRight = j;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = i;
+},
+{
+alignment = -1;
+pos = (282,0);
+ref = j;
+}
+);
+width = 532;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = i;
+},
+{
+alignment = -1;
+pos = (305,0);
+ref = j;
+}
+);
+width = 606;
+}
+);
+unicode = 307;
+}

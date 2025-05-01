@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = ntilde.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = n.sc;
+},
+{
+alignment = 1;
+pos = (107,45);
+ref = tildecomb;
+}
+);
+width = 614;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = n.sc;
+},
+{
+alignment = 1;
+pos = (116,31);
+ref = tildecomb;
+}
+);
+width = 630;
+}
+);
+}

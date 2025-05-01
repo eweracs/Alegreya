@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = braceleft.case;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,60);
+ref = braceleft;
+}
+);
+width = 309;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+pos = (0,60);
+ref = braceleft;
+}
+);
+width = 335;
+}
+);
+}

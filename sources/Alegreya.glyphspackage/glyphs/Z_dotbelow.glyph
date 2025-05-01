@@ -1,0 +1,38 @@
+{
+color = 5;
+glyphname = Zdotbelow;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Z;
+},
+{
+alignment = 1;
+pos = (111,0);
+ref = dotbelowcomb;
+}
+);
+width = 568;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = Z;
+},
+{
+alignment = 1;
+pos = (190,0);
+ref = dotbelowcomb;
+}
+);
+width = 594;
+}
+);
+production = uni1E92;
+unicode = 7826;
+}

@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = omegadasiavaria;
+kernLeft = omega;
+kernRight = omega;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (104,0);
+ref = dasiavaria;
+}
+);
+width = 657;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (70,0);
+ref = dasiavaria;
+}
+);
+width = 630;
+}
+);
+production = uni1F63;
+unicode = 8035;
+}

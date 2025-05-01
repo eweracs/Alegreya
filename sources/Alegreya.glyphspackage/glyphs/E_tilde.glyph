@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = Etilde;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (111,0);
+ref = tildecomb.case;
+}
+);
+width = 591;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (129,0);
+ref = tildecomb.case;
+}
+);
+width = 603;
+}
+);
+production = uni1EBC;
+unicode = 7868;
+}

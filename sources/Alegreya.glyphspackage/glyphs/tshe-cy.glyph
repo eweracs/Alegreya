@@ -1,0 +1,27 @@
+{
+glyphname = "tshe-cy";
+kernLeft = h;
+kernRight = n;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = hbar;
+}
+);
+width = 536;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = hbar;
+}
+);
+width = 558;
+}
+);
+production = uni045B;
+unicode = 1115;
+}

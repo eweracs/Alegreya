@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Iotadasiaoxia;
+kernLeft = asterisk;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (226,0);
+ref = Iota;
+},
+{
+pos = (-88,-36);
+ref = dasiaoxia.case;
+}
+);
+width = 587;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (394,0);
+ref = Iota;
+},
+{
+pos = (-32,-76);
+ref = dasiaoxia.case;
+}
+);
+width = 764;
+}
+);
+metricLeft = "=Etatonos";
+metricRight = I;
+production = uni1F3D;
+unicode = 7997;
+}

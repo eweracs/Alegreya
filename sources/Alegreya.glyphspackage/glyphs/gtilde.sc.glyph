@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = gtilde.sc;
+kernLeft = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = g.sc;
+},
+{
+alignment = 1;
+pos = (103,45);
+ref = tildecomb;
+}
+);
+width = 566;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = g.sc;
+},
+{
+alignment = 1;
+pos = (102,31);
+ref = tildecomb;
+}
+);
+width = 542;
+}
+);
+}

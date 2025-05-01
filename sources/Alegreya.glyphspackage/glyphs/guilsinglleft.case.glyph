@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = guilsinglleft.case;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,80);
+ref = guilsinglleft;
+}
+);
+width = 261;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+pos = (0,70);
+ref = guilsinglleft;
+}
+);
+width = 270;
+}
+);
+}

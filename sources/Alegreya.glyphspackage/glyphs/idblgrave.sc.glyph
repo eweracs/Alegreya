@@ -1,0 +1,37 @@
+{
+color = 5;
+glyphname = idblgrave.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = i.sc;
+},
+{
+alignment = 1;
+pos = (-34,45);
+ref = dblgravecomb;
+}
+);
+width = 319;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = i.sc;
+},
+{
+alignment = 1;
+pos = (-46,31);
+ref = dblgravecomb;
+}
+);
+width = 322;
+}
+);
+production = uni0209.sc;
+}

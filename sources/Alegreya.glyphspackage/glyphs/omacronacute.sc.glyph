@@ -1,0 +1,35 @@
+{
+color = 5;
+glyphname = omacronacute.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (93,45);
+ref = macroncomb_acutecomb;
+}
+);
+width = 585;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = o.sc;
+},
+{
+pos = (73,31);
+ref = macroncomb_acutecomb;
+}
+);
+width = 554;
+}
+);
+production = uni1E53.sc;
+}

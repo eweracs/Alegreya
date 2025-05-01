@@ -1,0 +1,36 @@
+{
+color = 5;
+glyphname = tdieresis;
+kernLeft = t;
+kernRight = t;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (-18,9);
+ref = dieresiscomb.i;
+}
+);
+width = 330;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = t;
+},
+{
+pos = (-9,21);
+ref = dieresiscomb.i;
+}
+);
+width = 334;
+}
+);
+production = uni1E97;
+unicode = 7831;
+}

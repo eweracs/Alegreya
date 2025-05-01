@@ -1,0 +1,35 @@
+{
+glyphname = Kcaron;
+kernLeft = H;
+kernRight = X;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = K;
+},
+{
+pos = (144,10);
+ref = caroncomb.case;
+}
+);
+width = 628;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = K;
+},
+{
+pos = (177,0);
+ref = caroncomb.case;
+}
+);
+width = 693;
+}
+);
+production = uni01E8;
+unicode = 488;
+}

@@ -1,0 +1,48 @@
+{
+color = 5;
+glyphname = Sdotbelowdotaccent;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = S;
+},
+{
+alignment = 1;
+pos = (43,0);
+ref = dotbelowcomb;
+},
+{
+alignment = 1;
+pos = (76,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 530;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = S;
+},
+{
+alignment = 1;
+pos = (131,0);
+ref = dotbelowcomb;
+},
+{
+alignment = 1;
+pos = (87,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 551;
+}
+);
+production = uni1E68;
+unicode = 7784;
+}

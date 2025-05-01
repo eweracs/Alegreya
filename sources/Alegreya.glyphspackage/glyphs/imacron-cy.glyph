@@ -1,0 +1,35 @@
+{
+glyphname = "imacron-cy";
+kernLeft = n;
+kernRight = u;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "ii-cy";
+},
+{
+pos = (94,0);
+ref = macroncomb;
+}
+);
+width = 586;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "ii-cy";
+},
+{
+pos = (97,0);
+ref = macroncomb;
+}
+);
+width = 601;
+}
+);
+production = uni04E3;
+unicode = 1251;
+}

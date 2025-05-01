@@ -1,0 +1,48 @@
+{
+color = 4;
+glyphname = commaturnedabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (95,452);
+},
+{
+name = top;
+pos = (95,651);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+alignment = 1;
+ref = quoteleft;
+}
+);
+width = 176;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (125,472);
+},
+{
+name = top;
+pos = (125,663);
+}
+);
+layerId = UUID1;
+shapes = (
+{
+alignment = 1;
+ref = quoteleft;
+}
+);
+width = 263;
+}
+);
+production = uni0312;
+unicode = 786;
+}

@@ -1,0 +1,38 @@
+{
+color = 5;
+glyphname = Gmacron;
+kernLeft = O;
+kernRight = G;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = G;
+},
+{
+alignment = 1;
+pos = (173,0);
+ref = macroncomb.case;
+}
+);
+width = 667;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = G;
+},
+{
+alignment = 1;
+pos = (166,0);
+ref = macroncomb.case;
+}
+);
+width = 639;
+}
+);
+production = uni1E20;
+unicode = 7712;
+}

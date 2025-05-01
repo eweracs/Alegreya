@@ -1,0 +1,36 @@
+{
+color = 1;
+glyphname = leftBlackTriangle;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(318,368,l),
+(34,226,l),
+(318,84,l)
+);
+}
+);
+width = 412;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(351,391,l),
+(40,235,l),
+(351,80,l)
+);
+}
+);
+width = 432;
+}
+);
+production = uni25C0;
+unicode = 9664;
+}

@@ -1,0 +1,37 @@
+{
+color = 10;
+glyphname = alphaypogegrammeni;
+kernLeft = alpha;
+kernRight = alpha;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = alpha;
+},
+{
+alignment = -1;
+pos = (138,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 540;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (105,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 519;
+}
+);
+production = uni1FB3;
+unicode = 8115;
+}

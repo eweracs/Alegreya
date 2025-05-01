@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = fourthtonechinese;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 600;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = gravecomb;
+}
+);
+width = 398;
+}
+);
+production = uni02CB;
+unicode = 715;
+}

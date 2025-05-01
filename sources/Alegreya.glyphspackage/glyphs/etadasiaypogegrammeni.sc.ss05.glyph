@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = etadasiaypogegrammeni.sc.ss05;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = etaypogegrammeni.sc.ss05;
+},
+{
+pos = (121,45);
+ref = dasia;
+}
+);
+width = 958;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = etaypogegrammeni.sc.ss05;
+},
+{
+pos = (133,31);
+ref = dasia;
+}
+);
+width = 944;
+}
+);
+production = uni1F91.sc.ss05;
+}

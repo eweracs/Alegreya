@@ -1,0 +1,47 @@
+{
+color = 10;
+glyphname = threequarters;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = three.numr;
+},
+{
+alignment = -1;
+pos = (283,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (378,0);
+ref = four.dnom;
+}
+);
+width = 689;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = three.numr;
+},
+{
+alignment = -1;
+pos = (319,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (476,0);
+ref = four.dnom;
+}
+);
+width = 841;
+}
+);
+unicode = 190;
+}

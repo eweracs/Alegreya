@@ -1,0 +1,44 @@
+{
+color = 5;
+glyphname = twothirds;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = two.numr;
+},
+{
+pos = (329,0);
+ref = fraction;
+},
+{
+pos = (454,0);
+ref = three.dnom;
+}
+);
+width = 747;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = two.numr;
+},
+{
+pos = (377,0);
+ref = fraction;
+},
+{
+pos = (564,0);
+ref = three.dnom;
+}
+);
+width = 893;
+}
+);
+metricLeft = two.numr;
+metricRight = two.numr;
+production = uni2154;
+unicode = 8532;
+}

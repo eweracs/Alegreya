@@ -1,0 +1,25 @@
+{
+glyphname = perispomenicomb;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = perispomeni;
+}
+);
+width = 388;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = perispomeni;
+}
+);
+width = 388;
+}
+);
+production = uni0342;
+unicode = 834;
+}

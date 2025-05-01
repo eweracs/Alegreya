@@ -1,0 +1,35 @@
+{
+color = 5;
+glyphname = dzcaron.sc;
+kernLeft = H;
+kernRight = Z;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (596,0);
+ref = zcaron.sc;
+}
+);
+width = 1086;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = d.sc;
+},
+{
+pos = (578,0);
+ref = zcaron.sc;
+}
+);
+width = 1088;
+}
+);
+production = uni01C6.sc;
+}

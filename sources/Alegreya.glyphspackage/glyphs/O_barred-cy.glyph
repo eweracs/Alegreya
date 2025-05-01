@@ -1,0 +1,27 @@
+{
+glyphname = "Obarred-cy";
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "Fita-cy";
+}
+);
+width = 692;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "Fita-cy";
+}
+);
+width = 651;
+}
+);
+production = uni04E8;
+unicode = 1256;
+}

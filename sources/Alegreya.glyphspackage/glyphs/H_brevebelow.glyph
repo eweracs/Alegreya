@@ -1,0 +1,38 @@
+{
+color = 5;
+glyphname = Hbrevebelow;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = H;
+},
+{
+alignment = 1;
+pos = (178,0);
+ref = brevebelowcomb;
+}
+);
+width = 754;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = H;
+},
+{
+alignment = 1;
+pos = (171,0);
+ref = brevebelowcomb;
+}
+);
+width = 739;
+}
+);
+production = uni1E2A;
+unicode = 7722;
+}

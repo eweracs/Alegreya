@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = Ecircumflexacute;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (128,140);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 591;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (128,145);
+ref = circumflexcomb_acutecomb;
+}
+);
+width = 603;
+}
+);
+production = uni1EBE;
+unicode = 7870;
+}

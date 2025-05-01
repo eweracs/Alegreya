@@ -1,0 +1,38 @@
+{
+color = 4;
+glyphname = uinvertedbreve;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = u;
+},
+{
+alignment = 1;
+pos = (93,0);
+ref = breveinvertedcomb;
+}
+);
+width = 541;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = u;
+},
+{
+alignment = 1;
+pos = (60,0);
+ref = breveinvertedcomb;
+}
+);
+width = 553;
+}
+);
+production = uni0217;
+unicode = 535;
+}

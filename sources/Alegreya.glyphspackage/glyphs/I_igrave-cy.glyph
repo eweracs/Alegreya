@@ -1,0 +1,35 @@
+{
+glyphname = "Iigrave-cy";
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "Ii-cy";
+},
+{
+pos = (166,-10);
+ref = gravecomb.case;
+}
+);
+width = 753;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "Ii-cy";
+},
+{
+pos = (164,0);
+ref = gravecomb.case;
+}
+);
+width = 749;
+}
+);
+production = uni040D;
+unicode = 1037;
+}

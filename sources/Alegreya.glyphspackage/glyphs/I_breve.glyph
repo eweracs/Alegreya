@@ -1,0 +1,37 @@
+{
+color = 10;
+glyphname = Ibreve;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = I;
+},
+{
+alignment = 1;
+pos = (-18,185);
+ref = brevecomb;
+}
+);
+width = 361;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = I;
+},
+{
+alignment = 1;
+pos = (-14,175);
+ref = brevecomb;
+}
+);
+width = 370;
+}
+);
+unicode = 300;
+}

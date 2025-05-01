@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = omegaoxiaypogegrammeni;
+kernLeft = omega;
+kernRight = omega;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = omegaypogegrammeni;
+},
+{
+pos = (132,0);
+ref = oxia;
+}
+);
+width = 657;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = omegaypogegrammeni;
+},
+{
+pos = (108,0);
+ref = oxia;
+}
+);
+width = 630;
+}
+);
+production = uni1FF4;
+unicode = 8180;
+}

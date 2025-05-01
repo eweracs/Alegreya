@@ -1,0 +1,28 @@
+{
+color = 10;
+glyphname = "Ha-cy";
+kernLeft = X;
+kernRight = X;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = X;
+}
+);
+width = 656;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = X;
+}
+);
+width = 711;
+}
+);
+production = uni0425;
+unicode = 1061;
+}

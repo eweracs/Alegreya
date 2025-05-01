@@ -1,0 +1,59 @@
+{
+color = 0;
+glyphname = Lcaron;
+kernLeft = H;
+kernRight = L;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(452,413,l),
+(473,515,o),
+(487,625,o),
+(487,625,c),
+(480,633,l),
+(410,619,l),
+(410,619,o),
+(420,511,o),
+(416,401,c),
+(427,399,l)
+);
+},
+{
+alignment = -1;
+ref = L;
+}
+);
+width = 507;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(532,414,l),
+(558,526,o),
+(574,635,o),
+(574,635,c),
+(565,647,l),
+(431,633,l),
+(431,633,o),
+(442,515,o),
+(440,395,c),
+(459,389,l)
+);
+},
+{
+alignment = -1;
+ref = L;
+}
+);
+width = 570;
+}
+);
+unicode = 317;
+}

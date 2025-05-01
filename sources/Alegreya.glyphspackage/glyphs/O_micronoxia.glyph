@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Omicronoxia;
+kernLeft = Omicrontonos;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (43,0);
+ref = Omicron;
+},
+{
+pos = (-177,-37);
+ref = oxia;
+}
+);
+width = 735;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (180,0);
+ref = Omicron;
+},
+{
+pos = (-140,-112);
+ref = oxia;
+}
+);
+width = 835;
+}
+);
+metricLeft = "=Omicrontonos";
+metricRight = O;
+production = uni1FF9;
+unicode = 8185;
+}

@@ -1,0 +1,38 @@
+{
+color = 1;
+glyphname = mediumBlackSquare;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(452,0,l),
+(452,452,l),
+(0,452,l),
+(0,0,l)
+);
+}
+);
+width = 452;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(472,0,l),
+(472,472,l),
+(0,472,l),
+(0,0,l)
+);
+}
+);
+width = 472;
+}
+);
+production = uni25FC;
+unicode = 9724;
+}

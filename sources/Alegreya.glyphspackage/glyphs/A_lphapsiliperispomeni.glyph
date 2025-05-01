@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Alphapsiliperispomeni;
+kernLeft = Alphatonos;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (119,0);
+ref = Alpha;
+},
+{
+pos = (-38,-36);
+ref = psiliperispomeni.case;
+}
+);
+width = 703;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (158,0);
+ref = Alpha;
+},
+{
+pos = (-75,-76);
+ref = psiliperispomeni.case;
+}
+);
+width = 834;
+}
+);
+metricLeft = "=Alphatonos";
+metricRight = Alpha;
+production = uni1F0E;
+unicode = 7950;
+}

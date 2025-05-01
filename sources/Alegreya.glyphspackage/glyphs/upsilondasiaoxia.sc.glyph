@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = upsilondasiaoxia.sc;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = upsilon.sc;
+},
+{
+pos = (10,45);
+ref = dasiaoxia;
+}
+);
+width = 471;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = upsilon.sc;
+},
+{
+pos = (50,31);
+ref = dasiaoxia;
+}
+);
+width = 551;
+}
+);
+production = uni1F55.sc;
+}

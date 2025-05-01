@@ -1,0 +1,43 @@
+{
+color = 10;
+glyphname = ecircumflexdotbelow.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (52,0);
+ref = dotbelowcomb;
+},
+{
+pos = (63,24);
+ref = circumflexcomb;
+}
+);
+width = 508;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (135,0);
+ref = dotbelowcomb;
+},
+{
+pos = (75,30);
+ref = circumflexcomb;
+}
+);
+width = 516;
+}
+);
+production = uni1EC7.sc;
+}

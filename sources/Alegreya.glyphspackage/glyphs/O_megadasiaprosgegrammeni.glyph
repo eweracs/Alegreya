@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Omegadasiaprosgegrammeni;
+kernLeft = Omegatonos;
+kernRight = Omega;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (66,0);
+ref = Omegaprosgegrammeni;
+},
+{
+pos = (-98,-36);
+ref = dasia.case;
+}
+);
+width = 867;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (136,0);
+ref = Omegaprosgegrammeni;
+},
+{
+pos = (-87,-76);
+ref = dasia.case;
+}
+);
+width = 884;
+}
+);
+metricLeft = "=Omegatonos";
+metricRight = "=Omega";
+production = uni1FA9;
+unicode = 8105;
+}

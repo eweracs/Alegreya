@@ -1,0 +1,38 @@
+{
+color = 5;
+glyphname = Ndotaccent;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = N;
+},
+{
+alignment = 1;
+pos = (161,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 719;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = N;
+},
+{
+alignment = 1;
+pos = (171,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 739;
+}
+);
+production = uni1E44;
+unicode = 7748;
+}

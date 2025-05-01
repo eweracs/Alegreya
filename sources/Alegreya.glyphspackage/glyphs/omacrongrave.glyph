@@ -1,0 +1,36 @@
+{
+color = 5;
+glyphname = omacrongrave;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (49,0);
+ref = macroncomb_gravecomb;
+}
+);
+width = 498;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (63,0);
+ref = macroncomb_gravecomb;
+}
+);
+width = 538;
+}
+);
+production = uni1E51;
+unicode = 7761;
+}

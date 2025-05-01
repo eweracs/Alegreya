@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = omicrondasiavaria.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = omicron.sc;
+},
+{
+pos = (67,45);
+ref = dasiavaria;
+}
+);
+width = 585;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = omicron.sc;
+},
+{
+pos = (51,31);
+ref = dasiavaria;
+}
+);
+width = 554;
+}
+);
+production = uni1F43.sc;
+}

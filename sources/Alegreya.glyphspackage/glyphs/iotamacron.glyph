@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = iotamacron;
+kernLeft = iota;
+kernRight = iota;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-70,0);
+ref = macroncomb;
+}
+);
+width = 268;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-91,0);
+ref = macroncomb;
+}
+);
+width = 273;
+}
+);
+production = uni1FD1;
+unicode = 8145;
+}

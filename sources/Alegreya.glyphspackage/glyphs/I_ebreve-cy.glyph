@@ -1,0 +1,35 @@
+{
+glyphname = "Iebreve-cy";
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "Ie-cy";
+},
+{
+pos = (125,194);
+ref = "brevecomb-cy.case";
+}
+);
+width = 591;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "Ie-cy";
+},
+{
+pos = (104,173);
+ref = "brevecomb-cy.case";
+}
+);
+width = 603;
+}
+);
+production = uni04D6;
+unicode = 1238;
+}

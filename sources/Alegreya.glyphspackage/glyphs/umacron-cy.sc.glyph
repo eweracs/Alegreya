@@ -1,0 +1,34 @@
+{
+glyphname = "umacron-cy.sc";
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "u-cy.sc";
+},
+{
+pos = (57,46);
+ref = macroncomb;
+}
+);
+width = 476;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "u-cy.sc";
+},
+{
+pos = (62,31);
+ref = macroncomb;
+}
+);
+width = 501;
+}
+);
+production = uni04EF.sc;
+}

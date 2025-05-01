@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = omegavariaypogegrammeni.sc;
+kernLeft = Omega;
+kernRight = Omega;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = omegaypogegrammeni.sc;
+},
+{
+pos = (134,45);
+ref = varia;
+}
+);
+width = 673;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = omegaypogegrammeni.sc;
+},
+{
+pos = (111,31);
+ref = varia;
+}
+);
+width = 630;
+}
+);
+production = uni1FF2.sc;
+}

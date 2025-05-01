@@ -1,0 +1,26 @@
+{
+color = 4;
+glyphname = one.sups;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = onesuperior;
+}
+);
+width = 249;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = onesuperior;
+}
+);
+width = 283;
+}
+);
+metricLeft = onesuperior;
+metricRight = onesuperior;
+}

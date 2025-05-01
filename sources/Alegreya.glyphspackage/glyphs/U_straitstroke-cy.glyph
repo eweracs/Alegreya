@@ -1,0 +1,35 @@
+{
+glyphname = "Ustraitstroke-cy";
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (33,-62);
+ref = strokeshortcomb;
+}
+);
+width = 538;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (88,-56);
+ref = strokeshortcomb;
+}
+);
+width = 663;
+}
+);
+production = Ustraitstrokecy;
+unicode = 1200;
+}

@@ -1,0 +1,35 @@
+{
+glyphname = ezhcaron;
+kernLeft = z;
+kernRight = z;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = ezh;
+},
+{
+pos = (47,-2);
+ref = caroncomb;
+}
+);
+width = 462;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = ezh;
+},
+{
+pos = (54,-3);
+ref = caroncomb;
+}
+);
+width = 504;
+}
+);
+production = uni01EF;
+unicode = 495;
+}

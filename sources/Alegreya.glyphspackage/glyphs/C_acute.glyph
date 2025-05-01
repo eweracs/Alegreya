@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = Cacute;
+kernLeft = O;
+kernRight = C;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = C;
+},
+{
+alignment = -1;
+pos = (170,0);
+ref = acutecomb.case;
+}
+);
+width = 626;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = C;
+},
+{
+alignment = -1;
+pos = (155,0);
+ref = acutecomb.case;
+}
+);
+width = 603;
+}
+);
+unicode = 262;
+}

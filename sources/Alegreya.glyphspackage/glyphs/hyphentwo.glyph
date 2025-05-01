@@ -1,0 +1,28 @@
+{
+color = 10;
+glyphname = hyphentwo;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 380;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = hyphen;
+}
+);
+width = 324;
+}
+);
+metricLeft = "=hyphen";
+metricRight = "=hyphen";
+production = uni2010;
+unicode = 8208;
+}

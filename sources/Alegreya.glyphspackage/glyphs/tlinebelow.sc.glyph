@@ -1,0 +1,37 @@
+{
+color = 5;
+glyphname = tlinebelow.sc;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = t.sc;
+},
+{
+alignment = 1;
+pos = (37,0);
+ref = macronbelowcomb;
+}
+);
+width = 474;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = t.sc;
+},
+{
+alignment = 1;
+pos = (52,0);
+ref = macronbelowcomb;
+}
+);
+width = 511;
+}
+);
+production = uni1E6F.sc;
+}

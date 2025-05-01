@@ -1,0 +1,72 @@
+{
+color = 10;
+glyphname = oxia;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (198,452);
+},
+{
+name = _topleft;
+pos = (245,674);
+},
+{
+name = top;
+pos = (232,712);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = tonos;
+}
+);
+width = 398;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (188,472);
+},
+{
+name = _topleft;
+pos = (264,759);
+},
+{
+name = top;
+pos = (246,771);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(348,711,l),
+(237,764,l),
+(222,756,l),
+(200,681,o),
+(176,608,o),
+(149,536,c),
+(215,502,l),
+(238,506,l),
+(355,696,l)
+);
+}
+);
+};
+layerId = UUID1;
+shapes = (
+{
+ref = tonos;
+}
+);
+width = 398;
+}
+);
+production = uni1FFD;
+unicode = 8189;
+}

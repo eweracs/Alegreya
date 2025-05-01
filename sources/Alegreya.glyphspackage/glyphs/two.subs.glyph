@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = two.subs;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = two.sinf;
+}
+);
+width = 329;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = two.sinf;
+}
+);
+width = 377;
+}
+);
+metricLeft = two.sinf;
+metricRight = two.sinf;
+}

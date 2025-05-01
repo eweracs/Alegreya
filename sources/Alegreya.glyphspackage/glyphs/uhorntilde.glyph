@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = uhorntilde;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = uhorn;
+},
+{
+alignment = -1;
+pos = (56,0);
+ref = tilde;
+}
+);
+width = 551;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = uhorn;
+},
+{
+alignment = -1;
+pos = (72,0);
+ref = tilde;
+}
+);
+width = 573;
+}
+);
+production = uni1EEF;
+unicode = 7919;
+}

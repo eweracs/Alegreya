@@ -1,0 +1,28 @@
+{
+color = 4;
+glyphname = divisionslash;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = 1;
+ref = slash;
+}
+);
+width = 329;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = 1;
+ref = slash;
+}
+);
+width = 329;
+}
+);
+production = uni2215;
+unicode = 8725;
+}

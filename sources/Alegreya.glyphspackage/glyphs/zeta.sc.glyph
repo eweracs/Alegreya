@@ -1,0 +1,47 @@
+{
+color = 5;
+glyphname = zeta.sc;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = z.sc;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 11;
+height = 78;
+weight = -3;
+width = 82;
+};
+};
+width = 490;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = z.sc;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 7;
+height = 77.5;
+weight = -22;
+width = 83;
+};
+};
+width = 510;
+}
+);
+userData = {
+RMXScaler = {
+source = Z;
+};
+};
+}

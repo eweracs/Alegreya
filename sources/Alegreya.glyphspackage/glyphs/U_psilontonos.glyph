@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = Upsilontonos;
+kernLeft = Upsilontonos;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (160,0);
+ref = Upsilon;
+},
+{
+pos = (-169,-37);
+ref = tonos;
+}
+);
+width = 695;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (208,0);
+ref = Upsilon;
+},
+{
+pos = (-140,-112);
+ref = tonos;
+}
+);
+width = 846;
+}
+);
+unicode = 910;
+}

@@ -1,0 +1,43 @@
+{
+color = 5;
+glyphname = ccedillaacute.sc;
+kernLeft = O;
+kernRight = C;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = c.sc;
+},
+{
+pos = (87,0);
+ref = cedillacomb;
+},
+{
+pos = (69,45);
+ref = acutecomb;
+}
+);
+width = 533;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = c.sc;
+},
+{
+pos = (72,0);
+ref = cedillacomb;
+},
+{
+pos = (39,31);
+ref = acutecomb;
+}
+);
+width = 512;
+}
+);
+production = uni1E09.sc;
+}

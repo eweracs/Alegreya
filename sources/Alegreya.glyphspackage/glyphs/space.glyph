@@ -1,0 +1,17 @@
+{
+color = 1;
+glyphname = space;
+kernLeft = space;
+kernRight = space;
+layers = (
+{
+layerId = UUID0;
+width = 198;
+},
+{
+layerId = UUID1;
+width = 144;
+}
+);
+unicode = 32;
+}

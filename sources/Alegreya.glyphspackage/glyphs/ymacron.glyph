@@ -1,0 +1,38 @@
+{
+color = 4;
+glyphname = ymacron;
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = y;
+},
+{
+alignment = 1;
+pos = (23,0);
+ref = macroncomb;
+}
+);
+width = 446;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = y;
+},
+{
+alignment = 1;
+pos = (39,0);
+ref = macroncomb;
+}
+);
+width = 486;
+}
+);
+production = uni0233;
+unicode = 563;
+}

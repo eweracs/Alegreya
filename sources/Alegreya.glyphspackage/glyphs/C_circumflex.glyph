@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = Ccircumflex;
+kernLeft = O;
+kernRight = C;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = C;
+},
+{
+alignment = -1;
+pos = (142,174);
+ref = circumflexcomb;
+}
+);
+width = 626;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = C;
+},
+{
+alignment = -1;
+pos = (142,174);
+ref = circumflexcomb;
+}
+);
+width = 603;
+}
+);
+unicode = 264;
+}

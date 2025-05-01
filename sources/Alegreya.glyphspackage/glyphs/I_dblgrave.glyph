@@ -1,0 +1,38 @@
+{
+color = 4;
+glyphname = Idblgrave;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = I;
+},
+{
+alignment = 1;
+pos = (-101,-10);
+ref = dblgravecomb.case;
+}
+);
+width = 361;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = I;
+},
+{
+alignment = 1;
+pos = (-71,0);
+ref = dblgravecomb.case;
+}
+);
+width = 370;
+}
+);
+production = uni0208;
+unicode = 520;
+}

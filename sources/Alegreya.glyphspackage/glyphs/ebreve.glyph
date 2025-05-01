@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = ebreve;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (57,0);
+ref = brevecomb;
+}
+);
+width = 448;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (57,0);
+ref = brevecomb;
+}
+);
+width = 479;
+}
+);
+unicode = 277;
+}

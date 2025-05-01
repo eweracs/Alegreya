@@ -1,0 +1,26 @@
+{
+color = 4;
+glyphname = five.sinf;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = fiveinferior;
+}
+);
+width = 290;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = fiveinferior;
+}
+);
+width = 322;
+}
+);
+metricLeft = fiveinferior;
+metricRight = fiveinferior;
+}

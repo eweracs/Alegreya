@@ -1,0 +1,38 @@
+{
+color = 10;
+glyphname = jcircumflex.sc;
+kernLeft = J;
+kernRight = J;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = j.sc;
+},
+{
+alignment = -1;
+pos = (-46,34);
+ref = circumflexcomb;
+}
+);
+width = 292;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = j.sc;
+},
+{
+alignment = -1;
+pos = (-48,30);
+ref = circumflexcomb;
+}
+);
+width = 297;
+}
+);
+}

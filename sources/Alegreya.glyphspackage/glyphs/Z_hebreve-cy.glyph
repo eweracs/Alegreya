@@ -1,0 +1,35 @@
+{
+glyphname = "Zhebreve-cy";
+kernLeft = X;
+kernRight = X;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "Zhe-cy";
+},
+{
+pos = (256,184);
+ref = "brevecomb-cy.case";
+}
+);
+width = 913;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "Zhe-cy";
+},
+{
+pos = (291,173);
+ref = "brevecomb-cy.case";
+}
+);
+width = 1027;
+}
+);
+production = uni04C1;
+unicode = 1217;
+}

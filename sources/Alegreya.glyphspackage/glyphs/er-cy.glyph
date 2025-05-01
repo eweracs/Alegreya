@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = "er-cy";
+kernLeft = p;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (-4,0);
+ref = p;
+}
+);
+width = 526;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (-1,0);
+ref = p;
+}
+);
+width = 543;
+}
+);
+production = uni0440;
+unicode = 1088;
+}

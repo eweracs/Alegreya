@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = alphapsiliypogegrammeni;
+kernLeft = alpha;
+kernRight = alpha;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = alphaypogegrammeni;
+},
+{
+pos = (89,0);
+ref = psili;
+}
+);
+width = 540;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = alphaypogegrammeni;
+},
+{
+pos = (84,0);
+ref = psili;
+}
+);
+width = 519;
+}
+);
+production = uni1F80;
+unicode = 8064;
+}

@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = odieresis;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (51,0);
+ref = dieresiscomb;
+}
+);
+width = 498;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (67,0);
+ref = dieresiscomb;
+}
+);
+width = 509;
+}
+);
+unicode = 246;
+}

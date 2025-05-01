@@ -1,0 +1,26 @@
+{
+glyphname = "ve-cy.sc";
+kernLeft = H;
+kernRight = B;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = b.sc;
+}
+);
+width = 518;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = b.sc;
+}
+);
+width = 572;
+}
+);
+production = uni0432.sc;
+}

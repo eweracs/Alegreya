@@ -1,0 +1,35 @@
+{
+glyphname = "idieresis-cy";
+kernLeft = n;
+kernRight = u;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "ii-cy";
+},
+{
+pos = (95,0);
+ref = dieresiscomb;
+}
+);
+width = 586;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "ii-cy";
+},
+{
+pos = (102,0);
+ref = dieresiscomb;
+}
+);
+width = 601;
+}
+);
+production = uni04E5;
+unicode = 1253;
+}

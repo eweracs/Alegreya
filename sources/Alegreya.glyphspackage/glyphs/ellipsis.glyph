@@ -1,0 +1,49 @@
+{
+color = 10;
+glyphname = ellipsis;
+kernLeft = period;
+kernRight = period;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (210,0);
+ref = period;
+},
+{
+alignment = -1;
+pos = (420,0);
+ref = period;
+},
+{
+alignment = -1;
+ref = period;
+}
+);
+width = 658;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (230,0);
+ref = period;
+},
+{
+alignment = -1;
+pos = (460,0);
+ref = period;
+},
+{
+alignment = -1;
+ref = period;
+}
+);
+width = 698;
+}
+);
+unicode = 8230;
+}

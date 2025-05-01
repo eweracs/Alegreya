@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Iotapsili;
+kernLeft = asterisk;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (102,0);
+ref = Iota;
+},
+{
+pos = (-133,-36);
+ref = psili.case;
+}
+);
+width = 463;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (204,0);
+ref = Iota;
+},
+{
+pos = (-95,-76);
+ref = psili.case;
+}
+);
+width = 574;
+}
+);
+metricLeft = "=Etatonos";
+metricRight = Iota;
+production = uni1F38;
+unicode = 7992;
+}

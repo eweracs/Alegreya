@@ -1,0 +1,25 @@
+{
+glyphname = dialytikatonoscomb;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = dieresistonos;
+}
+);
+width = 398;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = dieresistonos;
+}
+);
+width = 508;
+}
+);
+production = uni0344;
+unicode = 836;
+}

@@ -1,0 +1,47 @@
+{
+color = 10;
+glyphname = Epsilon;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (296,637);
+},
+{
+name = topleft;
+pos = (-16,637);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = E;
+}
+);
+width = 591;
+},
+{
+anchors = (
+{
+name = top;
+pos = (302,647);
+},
+{
+name = topleft;
+pos = (-90,647);
+}
+);
+layerId = UUID1;
+shapes = (
+{
+ref = E;
+}
+);
+width = 603;
+}
+);
+unicode = 917;
+}

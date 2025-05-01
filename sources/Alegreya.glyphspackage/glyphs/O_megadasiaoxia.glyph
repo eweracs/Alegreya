@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Omegadasiaoxia;
+kernLeft = Omegatonos;
+kernRight = Omega;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (184,0);
+ref = Omega;
+},
+{
+pos = (-59,-36);
+ref = dasiaoxia.case;
+}
+);
+width = 985;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (321,0);
+ref = Omega;
+},
+{
+pos = (-38,-76);
+ref = dasiaoxia.case;
+}
+);
+width = 1069;
+}
+);
+metricLeft = "=Omegatonos";
+metricRight = Omega;
+production = uni1F6D;
+unicode = 8045;
+}

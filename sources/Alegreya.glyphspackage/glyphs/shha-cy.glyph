@@ -1,0 +1,27 @@
+{
+glyphname = "shha-cy";
+kernLeft = h;
+kernRight = n;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = h;
+}
+);
+width = 534;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = h;
+}
+);
+width = 554;
+}
+);
+production = uni04BB;
+unicode = 1211;
+}

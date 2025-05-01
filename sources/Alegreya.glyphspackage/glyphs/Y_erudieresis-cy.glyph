@@ -1,0 +1,35 @@
+{
+glyphname = "Yerudieresis-cy";
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "Yeru-cy";
+},
+{
+pos = (223,-1);
+ref = dieresiscomb.case;
+}
+);
+width = 843;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "Yeru-cy";
+},
+{
+pos = (291,0);
+ref = dieresiscomb.case;
+}
+);
+width = 979;
+}
+);
+production = uni04F8;
+unicode = 1272;
+}

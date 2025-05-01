@@ -1,0 +1,28 @@
+{
+color = 4;
+glyphname = softhyphen;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = 1;
+ref = hyphen;
+}
+);
+width = 380;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = 1;
+ref = hyphen;
+}
+);
+width = 324;
+}
+);
+production = uni00AD;
+unicode = 173;
+}

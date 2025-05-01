@@ -1,0 +1,28 @@
+{
+color = 10;
+glyphname = "Ef-cy";
+kernLeft = Phi;
+kernRight = Phi;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Phi;
+}
+);
+width = 704;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = Phi;
+}
+);
+width = 804;
+}
+);
+production = uni0424;
+unicode = 1060;
+}

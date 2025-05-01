@@ -1,0 +1,38 @@
+{
+color = 10;
+glyphname = Omegaprosgegrammeni.ss05;
+kernLeft = Omega;
+kernRight = iota;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = Omega;
+},
+{
+pos = (801,0);
+ref = iota;
+}
+);
+width = 1069;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = Omega;
+},
+{
+pos = (748,0);
+ref = iota;
+}
+);
+width = 1021;
+}
+);
+metricRight = "=iota";
+production = uni1FFC.ss05;
+}

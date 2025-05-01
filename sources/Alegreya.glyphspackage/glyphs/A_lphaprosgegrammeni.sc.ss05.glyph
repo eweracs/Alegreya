@@ -1,0 +1,38 @@
+{
+color = 10;
+glyphname = Alphaprosgegrammeni.sc.ss05;
+kernLeft = A;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = Alpha;
+},
+{
+pos = (584,0);
+ref = iota.sc;
+}
+);
+width = 903;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = Alpha;
+},
+{
+pos = (676,0);
+ref = iota.sc;
+}
+);
+width = 998;
+}
+);
+metricRight = "=iota.sc";
+production = uni1FBC.sc.ss05;
+}

@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = Omicron;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+anchors = (
+{
+name = topleft;
+pos = (25,637);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = O;
+}
+);
+width = 692;
+},
+{
+anchors = (
+{
+name = topleft;
+pos = (-56,647);
+}
+);
+layerId = UUID1;
+shapes = (
+{
+ref = O;
+}
+);
+width = 655;
+}
+);
+unicode = 927;
+}

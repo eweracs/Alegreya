@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Upsilondasiavaria;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (276,0);
+ref = Upsilon;
+},
+{
+pos = (-94,-36);
+ref = dasiavaria.case;
+}
+);
+width = 811;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (391,0);
+ref = Upsilon;
+},
+{
+pos = (-29,-76);
+ref = dasiavaria.case;
+}
+);
+width = 1029;
+}
+);
+metricLeft = "=Upsilontonos";
+metricRight = Upsilon;
+production = uni1F5B;
+unicode = 8027;
+}

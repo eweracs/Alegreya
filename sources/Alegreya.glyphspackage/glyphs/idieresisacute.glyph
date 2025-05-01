@@ -1,0 +1,38 @@
+{
+color = 5;
+glyphname = idieresisacute;
+kernLeft = idotless;
+kernRight = idotless;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = idotless;
+},
+{
+alignment = 1;
+pos = (-62,0);
+ref = dieresiscomb_acutecomb;
+}
+);
+width = 282;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = idotless;
+},
+{
+alignment = 1;
+pos = (-44,0);
+ref = dieresiscomb_acutecomb;
+}
+);
+width = 305;
+}
+);
+production = uni1E2F;
+unicode = 7727;
+}

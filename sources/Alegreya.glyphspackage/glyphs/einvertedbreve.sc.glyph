@@ -1,0 +1,36 @@
+{
+color = 5;
+glyphname = einvertedbreve.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e.sc;
+},
+{
+alignment = 1;
+pos = (78,45);
+ref = breveinvertedcomb;
+}
+);
+width = 508;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (57,31);
+ref = breveinvertedcomb;
+}
+);
+width = 516;
+}
+);
+production = uni0207.sc;
+}

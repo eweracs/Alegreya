@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = zdotaccent;
+kernLeft = z;
+kernRight = z;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = z;
+},
+{
+alignment = -1;
+pos = (36,0);
+ref = dotaccentcomb;
+}
+);
+width = 460;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = z;
+},
+{
+alignment = -1;
+pos = (48,0);
+ref = dotaccentcomb;
+}
+);
+width = 456;
+}
+);
+unicode = 380;
+}

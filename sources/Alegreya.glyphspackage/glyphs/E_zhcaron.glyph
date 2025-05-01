@@ -1,0 +1,35 @@
+{
+glyphname = Ezhcaron;
+kernLeft = "Ereversed-cy";
+kernRight = Ezh;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Ezh;
+},
+{
+pos = (94,0);
+ref = caroncomb.case;
+}
+);
+width = 548;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = Ezh;
+},
+{
+pos = (105,0);
+ref = caroncomb.case;
+}
+);
+width = 589;
+}
+);
+production = uni01EE;
+unicode = 494;
+}

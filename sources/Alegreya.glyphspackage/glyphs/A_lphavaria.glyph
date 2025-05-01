@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Alphavaria;
+kernLeft = Alphatonos;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = Alpha;
+},
+{
+pos = (-46,-54);
+ref = varia;
+}
+);
+width = 644;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (122,0);
+ref = Alpha;
+},
+{
+pos = (-52,-112);
+ref = varia;
+}
+);
+width = 798;
+}
+);
+metricLeft = "=Alphatonos";
+metricRight = A;
+production = uni1FBA;
+unicode = 8122;
+}

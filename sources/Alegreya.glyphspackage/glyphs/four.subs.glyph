@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = four.subs;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = four.sinf;
+}
+);
+width = 311;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = four.sinf;
+}
+);
+width = 365;
+}
+);
+metricLeft = four.sinf;
+metricRight = four.sinf;
+}

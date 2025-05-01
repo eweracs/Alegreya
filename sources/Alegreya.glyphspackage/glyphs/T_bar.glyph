@@ -1,0 +1,89 @@
+{
+color = 0;
+glyphname = Tbar;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(126,297,o),
+(201,298,o),
+(253,298,cs),
+(406,299,l),
+(410,337,l),
+(397,351,l),
+(397,351,o),
+(330,346,o),
+(275,346,cs),
+(219,346,o),
+(124,347,o),
+(124,347,c),
+(117,306,l),
+(126,297,l)
+);
+},
+{
+alignment = -1;
+ref = T;
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (39,81);
+ref = strokeshortcomb;
+}
+);
+width = 546;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(108,241,o),
+(222,242,o),
+(298,242,cs),
+(485,242,l),
+(490,297,l),
+(475,312,l),
+(475,312,o),
+(380,308,o),
+(324,308,cs),
+(241,308,o),
+(105,309,o),
+(105,309,c),
+(97,251,l),
+(108,241,l)
+);
+},
+{
+alignment = -1;
+ref = T;
+}
+);
+};
+layerId = UUID1;
+shapes = (
+{
+ref = T;
+},
+{
+pos = (49,17);
+ref = strokeshortcomb;
+}
+);
+width = 593;
+}
+);
+unicode = 358;
+}

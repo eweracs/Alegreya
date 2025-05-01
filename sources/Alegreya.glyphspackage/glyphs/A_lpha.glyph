@@ -1,0 +1,55 @@
+{
+color = 10;
+glyphname = Alpha;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (296,0);
+},
+{
+name = top;
+pos = (304,647);
+},
+{
+name = topleft;
+pos = (89,637);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = A;
+}
+);
+width = 584;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (316,0);
+},
+{
+name = top;
+pos = (341,647);
+},
+{
+name = topleft;
+pos = (36,647);
+}
+);
+layerId = UUID1;
+shapes = (
+{
+ref = A;
+}
+);
+width = 676;
+}
+);
+unicode = 913;
+}

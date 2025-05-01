@@ -1,0 +1,36 @@
+{
+color = 1;
+glyphname = upBlackTriangle;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(348,104,l),
+(206,388,l),
+(64,104,l)
+);
+}
+);
+width = 412;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(371,100,l),
+(215,411,l),
+(60,100,l)
+);
+}
+);
+width = 432;
+}
+);
+production = triagup;
+unicode = 9650;
+}

@@ -1,0 +1,39 @@
+{
+glyphname = "Endescender-cy";
+kernLeft = H;
+kernRight = "De-cy";
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (-11,0);
+ref = "En-cy";
+},
+{
+pos = (511,0);
+ref = "descender-cy.case";
+}
+);
+width = 737;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (5,0);
+ref = "En-cy";
+},
+{
+pos = (495,0);
+ref = "descender-cy.case";
+}
+);
+width = 763;
+}
+);
+production = uni04A2;
+unicode = 1186;
+}

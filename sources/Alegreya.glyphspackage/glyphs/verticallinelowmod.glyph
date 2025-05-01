@@ -1,0 +1,38 @@
+{
+color = 1;
+glyphname = verticallinelowmod;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(172,-230,l),
+(172,-56,l),
+(105,-56,l),
+(105,-230,l)
+);
+}
+);
+width = 277;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(210,-230,l),
+(210,-46,l),
+(90,-46,l),
+(90,-230,l)
+);
+}
+);
+width = 300;
+}
+);
+production = uni02CC;
+unicode = 716;
+}

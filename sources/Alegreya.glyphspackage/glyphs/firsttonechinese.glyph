@@ -1,0 +1,28 @@
+{
+color = 4;
+glyphname = firsttonechinese;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = 1;
+ref = macroncomb;
+}
+);
+width = 398;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = 1;
+ref = macroncomb;
+}
+);
+width = 398;
+}
+);
+production = uni02C9;
+unicode = 713;
+}

@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = uhorngrave;
+kernLeft = u;
+kernRight = u;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = uhorn;
+},
+{
+alignment = -1;
+pos = (59,0);
+ref = gravecomb;
+}
+);
+width = 551;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = uhorn;
+},
+{
+alignment = -1;
+pos = (69,0);
+ref = gravecomb;
+}
+);
+width = 573;
+}
+);
+production = uni1EEB;
+unicode = 7915;
+}

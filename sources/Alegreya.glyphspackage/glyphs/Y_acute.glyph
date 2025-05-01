@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = Yacute;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+alignment = -1;
+pos = (96,0);
+ref = acutecomb.case;
+}
+);
+width = 538;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = Y;
+},
+{
+alignment = -1;
+pos = (184,0);
+ref = acutecomb.case;
+}
+);
+width = 663;
+}
+);
+unicode = 221;
+}

@@ -1,0 +1,47 @@
+{
+color = 10;
+glyphname = alphaypogegrammeni.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (255,497);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (96,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 510;
+},
+{
+anchors = (
+{
+name = top;
+pos = (293,503);
+}
+);
+layerId = UUID1;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (122,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 586;
+}
+);
+production = uni1FB3.sc;
+}

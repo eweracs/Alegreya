@@ -1,0 +1,34 @@
+{
+color = 10;
+glyphname = egrave.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (58,45);
+ref = gravecomb;
+}
+);
+width = 508;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (66,31);
+ref = gravecomb;
+}
+);
+width = 516;
+}
+);
+}

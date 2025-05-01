@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = oogonek;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (86,0);
+ref = ogonekcomb;
+}
+);
+width = 498;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (105,0);
+ref = ogonekcomb;
+}
+);
+width = 509;
+}
+);
+production = uni01EB;
+unicode = 491;
+}

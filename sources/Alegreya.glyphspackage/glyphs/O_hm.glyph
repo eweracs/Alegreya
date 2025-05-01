@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = Ohm;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Omega;
+}
+);
+width = 801;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = Omega;
+}
+);
+width = 748;
+}
+);
+production = uni2126;
+unicode = 8486;
+}

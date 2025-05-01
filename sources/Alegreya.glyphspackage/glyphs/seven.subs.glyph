@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = seven.subs;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = seven.sinf;
+}
+);
+width = 289;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = seven.sinf;
+}
+);
+width = 320;
+}
+);
+metricLeft = seven.sinf;
+metricRight = seven.sinf;
+}

@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = slash.case;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,50);
+ref = slash;
+}
+);
+width = 329;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+pos = (0,30);
+ref = slash;
+}
+);
+width = 329;
+}
+);
+}

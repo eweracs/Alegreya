@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = abrevetilde.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (57,25);
+ref = brevecomb_tildecomb;
+}
+);
+width = 510;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (95,31);
+ref = brevecomb_tildecomb;
+}
+);
+width = 586;
+}
+);
+production = uni1EB5.sc;
+}

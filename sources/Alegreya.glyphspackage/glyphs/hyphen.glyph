@@ -1,0 +1,49 @@
+{
+color = 1;
+glyphname = hyphen;
+kernLeft = hyphen;
+kernRight = hyphen;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(311,236,l),
+(316,290,l),
+(309,299,l),
+(309,299,o),
+(290,295,o),
+(244,290,cs),
+(70,270,l),
+(64,218,l),
+(71,210,l)
+);
+}
+);
+width = 380;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(278,202,l),
+(291,310,l),
+(279,328,l),
+(279,328,o),
+(260,324,o),
+(196,317,cs),
+(43,300,l),
+(33,194,l),
+(46,176,l)
+);
+}
+);
+width = 324;
+}
+);
+unicode = 45;
+}

@@ -1,0 +1,36 @@
+{
+color = 4;
+glyphname = odotaccentmacron;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (50,0);
+ref = dotaccentcomb_macroncomb;
+}
+);
+width = 498;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (70,0);
+ref = dotaccentcomb_macroncomb;
+}
+);
+width = 538;
+}
+);
+production = uni0231;
+unicode = 561;
+}

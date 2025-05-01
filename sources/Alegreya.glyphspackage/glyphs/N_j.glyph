@@ -1,0 +1,36 @@
+{
+color = 4;
+glyphname = Nj;
+kernLeft = H;
+kernRight = j;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (719,0);
+ref = j;
+}
+);
+width = 969;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (739,0);
+ref = j;
+}
+);
+width = 1040;
+}
+);
+production = uni01CB;
+unicode = 459;
+}

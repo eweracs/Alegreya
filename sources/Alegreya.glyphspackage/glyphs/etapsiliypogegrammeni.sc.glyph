@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = etapsiliypogegrammeni.sc;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = etaypogegrammeni.sc;
+},
+{
+pos = (122,45);
+ref = psili;
+}
+);
+width = 639;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = etaypogegrammeni.sc;
+},
+{
+pos = (143,31);
+ref = psili;
+}
+);
+width = 625;
+}
+);
+production = uni1F90.sc;
+}

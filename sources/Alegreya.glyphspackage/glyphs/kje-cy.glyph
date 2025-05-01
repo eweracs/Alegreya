@@ -1,0 +1,35 @@
+{
+glyphname = "kje-cy";
+kernLeft = n;
+kernRight = x;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "ka-cy";
+},
+{
+pos = (33,0);
+ref = acutecomb;
+}
+);
+width = 519;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "ka-cy";
+},
+{
+pos = (45,0);
+ref = acutecomb;
+}
+);
+width = 563;
+}
+);
+production = uni045C;
+unicode = 1116;
+}

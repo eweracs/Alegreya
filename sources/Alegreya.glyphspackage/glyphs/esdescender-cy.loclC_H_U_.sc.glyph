@@ -1,0 +1,37 @@
+{
+glyphname = "esdescender-cy.loclCHU.sc";
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "es-cy.sc";
+},
+{
+pos = (87,0);
+ref = cedillacomb;
+}
+);
+width = 533;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "es-cy.sc";
+},
+{
+pos = (72,0);
+ref = cedillacomb;
+}
+);
+width = 512;
+}
+);
+production = uni04AB.loclCHU.sc;
+userData = {
+RMXScaler = {
+source = "Esdescender-cy.loclCHU";
+};
+};
+}

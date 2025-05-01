@@ -1,0 +1,32 @@
+{
+color = 4;
+glyphname = schwa;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+angle = 180;
+pos = (448,452);
+ref = e;
+}
+);
+width = 448;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+angle = 180;
+pos = (479,472);
+ref = e;
+}
+);
+width = 479;
+}
+);
+production = uni0259;
+unicode = 601;
+}

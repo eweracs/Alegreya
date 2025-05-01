@@ -1,0 +1,90 @@
+{
+color = 10;
+glyphname = Ahookabove;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(255,768,o),
+(218,785,o),
+(201,818,c),
+(193,818,l),
+(177,808,l),
+(191,759,o),
+(228,710,o),
+(297,710,cs),
+(366,710,o),
+(403,759,o),
+(417,808,c),
+(401,818,l),
+(393,818,l),
+(376,785,o),
+(339,768,o),
+(297,768,cs)
+);
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (103,130);
+ref = hookabovecomb;
+}
+);
+width = 584;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(292,810,o),
+(250,833,o),
+(230,880,c),
+(203,873,l),
+(163,811,l),
+(184,743,o),
+(239,675,o),
+(341,675,cs),
+(443,675,o),
+(498,743,o),
+(519,811,c),
+(479,873,l),
+(452,880,l),
+(432,833,o),
+(390,810,o),
+(341,810,cs)
+);
+}
+);
+};
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = A;
+},
+{
+alignment = -1;
+pos = (141,140);
+ref = hookabovecomb;
+}
+);
+width = 676;
+}
+);
+production = uni1EA2;
+unicode = 7842;
+}

@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = iotadasiavaria;
+kernLeft = iota;
+kernRight = iota;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-96,0);
+ref = dasiavaria;
+}
+);
+width = 268;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-113,0);
+ref = dasiavaria;
+}
+);
+width = 273;
+}
+);
+production = uni1F33;
+unicode = 7987;
+}

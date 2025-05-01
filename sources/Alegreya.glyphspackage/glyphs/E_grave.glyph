@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = Egrave;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (108,0);
+ref = gravecomb.case;
+}
+);
+width = 591;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (115,0);
+ref = gravecomb.case;
+}
+);
+width = 603;
+}
+);
+unicode = 200;
+}

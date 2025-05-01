@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = quotedbl.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,-130);
+ref = quotedbl;
+}
+);
+width = 298;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+pos = (0,-131);
+ref = quotedbl;
+}
+);
+width = 347;
+}
+);
+}

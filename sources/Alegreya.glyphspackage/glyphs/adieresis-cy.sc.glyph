@@ -1,0 +1,34 @@
+{
+glyphname = "adieresis-cy.sc";
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "a-cy.sc";
+},
+{
+pos = (56,45);
+ref = dieresiscomb;
+}
+);
+width = 510;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "a-cy.sc";
+},
+{
+pos = (94,31);
+ref = dieresiscomb;
+}
+);
+width = 586;
+}
+);
+production = uni04D3.sc;
+}

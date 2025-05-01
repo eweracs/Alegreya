@@ -1,0 +1,26 @@
+{
+color = 4;
+glyphname = six.sups;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = sixsuperior;
+}
+);
+width = 312;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = sixsuperior;
+}
+);
+width = 348;
+}
+);
+metricLeft = sixsuperior;
+metricRight = sixsuperior;
+}

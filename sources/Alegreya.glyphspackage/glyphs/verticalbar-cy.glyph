@@ -1,0 +1,90 @@
+{
+color = 1;
+export = 0;
+glyphname = "verticalbar-cy";
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (108,239);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(44,654,l),
+(-31,-147,l),
+(-26,-154,l),
+(0,-151,l),
+(76,649,l),
+(70,658,l)
+);
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(132,84,l),
+(133,247,l),
+(136,399,l),
+(128,403,l),
+(83,395,l),
+(84,235,l),
+(81,80,l),
+(88,76,l)
+);
+}
+);
+width = 217;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (94,241);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(147,78,l),
+(148,256,l),
+(151,400,l),
+(133,412,l),
+(35,403,l),
+(37,244,l),
+(34,81,l),
+(47,69,l)
+);
+}
+);
+};
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(129,80,l),
+(130,254,l),
+(133,392,l),
+(114,405,l),
+(45,399,l),
+(47,245,l),
+(44,87,l),
+(57,74,l)
+);
+}
+);
+width = 175;
+}
+);
+production = verticalbarcy;
+}

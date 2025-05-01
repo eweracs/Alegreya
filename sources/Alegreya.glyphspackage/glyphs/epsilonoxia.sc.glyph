@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = epsilonoxia.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = epsilon.sc;
+},
+{
+alignment = 1;
+anchor = top;
+pos = (56,45);
+ref = oxia;
+}
+);
+width = 508;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = epsilon.sc;
+},
+{
+alignment = 1;
+anchor = top;
+pos = (70,31);
+ref = oxia;
+}
+);
+width = 516;
+}
+);
+production = uni1F73.sc;
+}

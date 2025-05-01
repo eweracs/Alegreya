@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = edotbelow;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (30,0);
+ref = dotbelowcomb;
+}
+);
+width = 448;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (127,0);
+ref = dotbelowcomb;
+}
+);
+width = 479;
+}
+);
+production = uni1EB9;
+unicode = 7865;
+}

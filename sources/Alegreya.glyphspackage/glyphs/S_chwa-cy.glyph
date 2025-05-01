@@ -1,0 +1,27 @@
+{
+glyphname = "Schwa-cy";
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = Schwa;
+}
+);
+width = 672;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = Schwa;
+}
+);
+width = 642;
+}
+);
+production = uni04D8;
+unicode = 1240;
+}

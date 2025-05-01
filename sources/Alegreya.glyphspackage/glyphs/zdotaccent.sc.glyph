@@ -1,0 +1,34 @@
+{
+color = 5;
+glyphname = zdotaccent.sc;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = z.sc;
+},
+{
+pos = (46,45);
+ref = dotaccentcomb;
+}
+);
+width = 490;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = z.sc;
+},
+{
+pos = (56,31);
+ref = dotaccentcomb;
+}
+);
+width = 510;
+}
+);
+}

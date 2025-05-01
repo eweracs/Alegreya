@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = emacron;
+kernLeft = o;
+kernRight = e;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (42,0);
+ref = macroncomb;
+}
+);
+width = 448;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = e;
+},
+{
+alignment = -1;
+pos = (56,0);
+ref = macroncomb;
+}
+);
+width = 479;
+}
+);
+unicode = 275;
+}

@@ -1,0 +1,52 @@
+{
+color = 4;
+glyphname = brevebelowcomb;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (199,0);
+},
+{
+name = bottom;
+pos = (199,-197);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (0,-735);
+ref = brevecomb;
+}
+);
+width = 398;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (199,0);
+},
+{
+name = bottom;
+pos = (199,-260);
+}
+);
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (0,-777);
+ref = brevecomb;
+}
+);
+width = 398;
+}
+);
+metricLeft = "=brevecomb";
+metricRight = "=brevecomb";
+production = uni032E;
+unicode = 814;
+}

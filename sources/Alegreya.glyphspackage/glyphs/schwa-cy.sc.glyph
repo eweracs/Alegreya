@@ -1,0 +1,47 @@
+{
+glyphname = "schwa-cy.sc";
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = schwa.sc;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 11;
+height = 78;
+weight = -3;
+width = 82;
+};
+};
+width = 563;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = schwa.sc;
+}
+);
+userData = {
+RMXScaler = {
+adjustSpace = 7;
+height = 77.5;
+weight = -22;
+width = 83;
+};
+};
+width = 547;
+}
+);
+production = uni04D9.sc;
+userData = {
+RMXScaler = {
+source = "Schwa-cy";
+};
+};
+}

@@ -1,0 +1,38 @@
+{
+color = 10;
+glyphname = iotaperispomeni;
+kernLeft = iota;
+kernRight = iota;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = iota;
+},
+{
+alignment = -1;
+pos = (-79,-35);
+ref = perispomeni;
+}
+);
+width = 266;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = iota;
+},
+{
+alignment = -1;
+pos = (-60,-10);
+ref = perispomeni;
+}
+);
+width = 281;
+}
+);
+production = uni1FD6;
+unicode = 8150;
+}

@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = iotadieresistonos;
+kernLeft = iota;
+kernRight = iota;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-69,0);
+ref = dieresistonos;
+}
+);
+width = 268;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-122,0);
+ref = dieresistonos;
+}
+);
+width = 273;
+}
+);
+unicode = 912;
+}

@@ -1,0 +1,36 @@
+{
+color = 4;
+glyphname = otildemacron;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (49,0);
+ref = tildecomb_macroncomb;
+}
+);
+width = 498;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = o;
+},
+{
+pos = (70,0);
+ref = tildecomb_macroncomb;
+}
+);
+width = 538;
+}
+);
+production = uni022D;
+unicode = 557;
+}

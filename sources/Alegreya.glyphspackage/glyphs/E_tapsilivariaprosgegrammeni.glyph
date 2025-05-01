@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Etapsilivariaprosgegrammeni;
+kernLeft = Etatonos;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (221,0);
+ref = Etaprosgegrammeni;
+},
+{
+pos = (-91,-36);
+ref = psilivaria.case;
+}
+);
+width = 975;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (371,0);
+ref = Etaprosgegrammeni;
+},
+{
+pos = (-33,-76);
+ref = psilivaria.case;
+}
+);
+width = 1110;
+}
+);
+metricLeft = "=Etatonos";
+metricRight = "=H";
+production = uni1F9A;
+unicode = 8090;
+}

@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Alphapsiliprosgegrammeni;
+kernLeft = Alphatonos;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (-55,-62);
+ref = psili.case;
+},
+{
+pos = (60,0);
+ref = Alphaprosgegrammeni;
+}
+);
+width = 644;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (-99,-76);
+ref = psili.case;
+},
+{
+pos = (56,0);
+ref = Alphaprosgegrammeni;
+}
+);
+width = 732;
+}
+);
+metricLeft = "=Alphatonos";
+metricRight = "=A";
+production = uni1F88;
+unicode = 8072;
+}

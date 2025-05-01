@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = hairspace;
+layers = (
+{
+layerId = UUID0;
+width = 80;
+},
+{
+layerId = UUID1;
+width = 50;
+}
+);
+production = uni200A;
+unicode = 8202;
+}

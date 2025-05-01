@@ -1,0 +1,138 @@
+{
+color = 10;
+glyphname = guillemetleft;
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(358,400,l),
+(282,318,o),
+(186,227,o),
+(186,227,c),
+(186,212,l),
+(186,212,o),
+(282,124,o),
+(358,46,c),
+(380,61,l),
+(381,71,l),
+(345,123,o),
+(310,174,o),
+(274,226,c),
+(310,276,o),
+(345,325,o),
+(381,375,c),
+(380,385,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(192,400,l),
+(116,318,o),
+(20,227,o),
+(20,227,c),
+(20,212,l),
+(20,212,o),
+(116,124,o),
+(192,46,c),
+(214,61,l),
+(215,71,l),
+(179,123,o),
+(144,174,o),
+(108,226,c),
+(144,276,o),
+(179,325,o),
+(215,375,c),
+(214,385,l)
+);
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (166,0);
+ref = guilsinglleft;
+},
+{
+alignment = -1;
+ref = guilsinglleft;
+}
+);
+width = 427;
+},
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(166,422,l),
+(97,339,o),
+(10,246,o),
+(10,246,c),
+(10,219,l),
+(10,219,o),
+(97,126,o),
+(166,42,c),
+(228,78,l),
+(235,101,l),
+(208,148,o),
+(181,202,o),
+(166,232,c),
+(181,262,o),
+(208,319,o),
+(235,364,c),
+(228,387,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(372,422,l),
+(303,339,o),
+(216,246,o),
+(216,246,c),
+(216,219,l),
+(216,219,o),
+(303,126,o),
+(372,42,c),
+(434,78,l),
+(441,101,l),
+(414,148,o),
+(387,202,o),
+(372,232,c),
+(387,262,o),
+(414,319,o),
+(441,364,c),
+(434,387,l)
+);
+}
+);
+};
+layerId = UUID1;
+metricLeft = "=guilsinglleft";
+metricRight = "=guilsinglleft";
+shapes = (
+{
+alignment = -1;
+pos = (206,0);
+ref = guilsinglleft;
+},
+{
+alignment = -1;
+ref = guilsinglleft;
+}
+);
+width = 476;
+}
+);
+metricLeft = guilsinglleft;
+metricRight = guilsinglleft;
+production = guillemotleft;
+unicode = 171;
+}

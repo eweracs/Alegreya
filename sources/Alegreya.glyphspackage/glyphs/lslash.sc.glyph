@@ -1,0 +1,60 @@
+{
+color = 0;
+glyphname = lslash.sc;
+kernLeft = H;
+kernRight = L;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(180,243,l),
+(180,236,l),
+(362,321,l),
+(355,353,l),
+(348,357,l),
+(180,278,l),
+(180,284,l),
+(68,230,l),
+(74,198,l),
+(82,196,l)
+);
+},
+{
+alignment = -1;
+pos = (12,0);
+ref = l.sc;
+}
+);
+width = 454;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(191,222,l),
+(191,202,l),
+(373,288,l),
+(345,369,l),
+(337,372,l),
+(191,304,l),
+(191,323,l),
+(15,240,l),
+(44,158,l),
+(52,156,l)
+);
+},
+{
+alignment = -1;
+pos = (24,0);
+ref = l.sc;
+}
+);
+width = 500;
+}
+);
+}

@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = zero.subs;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = zero.sinf;
+}
+);
+width = 352;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = zero.sinf;
+}
+);
+width = 355;
+}
+);
+metricLeft = zero.sinf;
+metricRight = zero.sinf;
+}

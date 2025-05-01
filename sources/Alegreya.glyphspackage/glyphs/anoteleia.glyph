@@ -1,0 +1,31 @@
+{
+color = 10;
+glyphname = anoteleia;
+kernLeft = hyphen;
+kernRight = hyphen;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+pos = (0,96);
+ref = periodcentered;
+}
+);
+width = 238;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+pos = (0,83);
+ref = periodcentered;
+}
+);
+width = 238;
+}
+);
+metricLeft = "=periodcentered";
+metricRight = "=periodcentered";
+unicode = 903;
+}

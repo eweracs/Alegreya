@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = upsilonperispomeni.sc;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = upsilon.sc;
+},
+{
+pos = (41,25);
+ref = perispomeni;
+}
+);
+width = 471;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = upsilon.sc;
+},
+{
+pos = (81,31);
+ref = perispomeni;
+}
+);
+width = 551;
+}
+);
+production = uni1FE6.sc;
+}

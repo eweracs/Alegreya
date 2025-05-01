@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = epsilonpsilivaria.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = epsilon.sc;
+},
+{
+pos = (28,45);
+ref = psilivaria;
+}
+);
+width = 508;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = epsilon.sc;
+},
+{
+pos = (32,31);
+ref = psilivaria;
+}
+);
+width = 516;
+}
+);
+production = uni1F12.sc;
+}

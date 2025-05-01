@@ -1,0 +1,59 @@
+{
+color = 4;
+glyphname = tildecomb_macroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (200,642);
+},
+{
+name = top;
+pos = (200,943);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (0,120);
+ref = tildecomb;
+},
+{
+alignment = 1;
+pos = (0,276);
+ref = macroncomb;
+}
+);
+width = 398;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (199,652);
+},
+{
+name = top;
+pos = (199,1039);
+}
+);
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (0,140);
+ref = tildecomb;
+},
+{
+alignment = 1;
+pos = (-5,332);
+ref = macroncomb;
+}
+);
+width = 398;
+}
+);
+production = uni03030304.case;
+}

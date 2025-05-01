@@ -1,0 +1,28 @@
+{
+color = 10;
+glyphname = ypogegrammeni;
+kernLeft = ypogegrammenicomb;
+kernRight = ypogegrammenicomb;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = ypogegrammenicomb;
+}
+);
+width = 318;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = ypogegrammenicomb;
+}
+);
+width = 342;
+}
+);
+production = uni037A;
+unicode = 890;
+}

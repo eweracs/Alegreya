@@ -1,0 +1,28 @@
+{
+color = 10;
+glyphname = "En-cy";
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = H;
+}
+);
+width = 754;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = H;
+}
+);
+width = 739;
+}
+);
+production = uni041D;
+unicode = 1053;
+}

@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = ldot;
+kernLeft = h;
+kernRight = l;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+alignment = -1;
+pos = (148,51);
+ref = periodcentered;
+}
+);
+width = 332;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = l;
+},
+{
+alignment = -1;
+pos = (246,51);
+ref = periodcentered;
+}
+);
+width = 462;
+}
+);
+unicode = 320;
+}

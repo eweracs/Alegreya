@@ -1,0 +1,35 @@
+{
+glyphname = "Gje-cy";
+kernLeft = H;
+kernRight = Gamma;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "Ge-cy";
+},
+{
+pos = (64,0);
+ref = acutecomb.case;
+}
+);
+width = 493;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "Ge-cy";
+},
+{
+pos = (84,0);
+ref = acutecomb.case;
+}
+);
+width = 559;
+}
+);
+production = uni0403;
+unicode = 1027;
+}

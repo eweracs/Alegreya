@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = ohorndotbelow;
+kernLeft = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = ohorn;
+},
+{
+alignment = -1;
+pos = (45,0);
+ref = dotbelowcomb;
+}
+);
+width = 518;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = ohorn;
+},
+{
+alignment = -1;
+pos = (135,0);
+ref = dotbelowcomb;
+}
+);
+width = 549;
+}
+);
+production = uni1EE3;
+unicode = 7907;
+}

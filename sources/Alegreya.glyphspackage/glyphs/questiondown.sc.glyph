@@ -1,0 +1,30 @@
+{
+color = 5;
+glyphname = questiondown.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = 1;
+angle = 180;
+pos = (291,497);
+ref = question.sc;
+}
+);
+width = 291;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = 1;
+angle = 180;
+pos = (332,503);
+ref = question.sc;
+}
+);
+width = 332;
+}
+);
+}

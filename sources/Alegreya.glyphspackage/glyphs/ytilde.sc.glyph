@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = ytilde.sc;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (38,45);
+ref = tildecomb;
+}
+);
+width = 475;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (90,31);
+ref = tildecomb;
+}
+);
+width = 578;
+}
+);
+production = uni1EF9.sc;
+}

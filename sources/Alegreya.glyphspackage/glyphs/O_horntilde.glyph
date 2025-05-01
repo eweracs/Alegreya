@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = Ohorntilde;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (142,0);
+ref = tildecomb.case;
+}
+);
+width = 703;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = Ohorn;
+},
+{
+alignment = -1;
+pos = (125,0);
+ref = tildecomb.case;
+}
+);
+width = 685;
+}
+);
+production = uni1EE0;
+unicode = 7904;
+}

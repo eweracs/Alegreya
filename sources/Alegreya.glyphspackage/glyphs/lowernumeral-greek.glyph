@@ -1,0 +1,52 @@
+{
+color = 1;
+glyphname = "lowernumeral-greek";
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(122,-158,l),
+(122,-158,o),
+(112,-50,o),
+(116,60,c),
+(105,62,l),
+(80,48,l),
+(59,-54,o),
+(45,-164,o),
+(45,-164,c),
+(52,-172,l)
+);
+}
+);
+width = 176;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(153,-118,l),
+(153,-118,o),
+(142,0,o),
+(144,120,c),
+(125,126,l),
+(52,101,l),
+(26,-11,o),
+(10,-120,o),
+(10,-120,c),
+(19,-132,l)
+);
+}
+);
+width = 176;
+}
+);
+metricLeft = "=|quotesingle";
+metricRight = "=|quotesingle";
+production = uni0375;
+unicode = 885;
+}

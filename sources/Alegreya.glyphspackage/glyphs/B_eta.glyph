@@ -1,0 +1,27 @@
+{
+color = 10;
+glyphname = Beta;
+kernLeft = H;
+kernRight = B;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = B;
+}
+);
+width = 597;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = B;
+}
+);
+width = 663;
+}
+);
+unicode = 914;
+}

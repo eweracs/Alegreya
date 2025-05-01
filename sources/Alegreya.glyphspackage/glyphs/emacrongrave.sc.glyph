@@ -1,0 +1,36 @@
+{
+color = 5;
+glyphname = emacrongrave.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e.sc;
+},
+{
+alignment = 1;
+pos = (56,45);
+ref = macroncomb_gravecomb;
+}
+);
+width = 508;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (62,31);
+ref = macroncomb_gravecomb;
+}
+);
+width = 516;
+}
+);
+production = uni1E15.sc;
+}

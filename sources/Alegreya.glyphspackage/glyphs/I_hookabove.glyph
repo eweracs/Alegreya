@@ -1,0 +1,38 @@
+{
+color = 10;
+glyphname = Ihookabove;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = I;
+},
+{
+alignment = 1;
+pos = (-17,165);
+ref = hookabovecomb;
+}
+);
+width = 361;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = I;
+},
+{
+alignment = 1;
+pos = (11,175);
+ref = hookabovecomb;
+}
+);
+width = 370;
+}
+);
+production = uni1EC8;
+unicode = 7880;
+}

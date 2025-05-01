@@ -1,0 +1,39 @@
+{
+glyphname = "Pedescender-cy";
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (-8,0);
+ref = "Pe-cy";
+},
+{
+pos = (479,0);
+ref = "descender-cy.case";
+}
+);
+width = 707;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (5,0);
+ref = "Pe-cy";
+},
+{
+pos = (495,0);
+ref = "descender-cy.case";
+}
+);
+width = 762;
+}
+);
+production = uni0524;
+unicode = 1316;
+}

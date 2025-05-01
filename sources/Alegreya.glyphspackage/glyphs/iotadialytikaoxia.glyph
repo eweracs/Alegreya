@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = iotadialytikaoxia;
+kernLeft = iota;
+kernRight = iota;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-69,0);
+ref = dialytikaoxia;
+}
+);
+width = 268;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = iota;
+},
+{
+pos = (-67,0);
+ref = dialytikaoxia;
+}
+);
+width = 273;
+}
+);
+production = uni1FD3;
+unicode = 8147;
+}

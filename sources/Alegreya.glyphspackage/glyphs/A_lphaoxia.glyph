@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Alphaoxia;
+kernLeft = Alphatonos;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = Alpha;
+},
+{
+pos = (-96,-37);
+ref = oxia;
+}
+);
+width = 644;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (90,0);
+ref = Alpha;
+},
+{
+pos = (-138,-112);
+ref = oxia;
+}
+);
+width = 766;
+}
+);
+metricLeft = "=Alphatonos";
+metricRight = A;
+production = uni1FBB;
+unicode = 8123;
+}

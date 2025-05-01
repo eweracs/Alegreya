@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Epsilondasiavaria;
+kernLeft = asterisk;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (216,0);
+ref = Epsilon;
+},
+{
+pos = (-86,-36);
+ref = dasiavaria.case;
+}
+);
+width = 807;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (393,0);
+ref = Epsilon;
+},
+{
+pos = (-23,-76);
+ref = dasiavaria.case;
+}
+);
+width = 996;
+}
+);
+metricLeft = "=Etatonos";
+metricRight = E;
+production = uni1F1B;
+unicode = 7963;
+}

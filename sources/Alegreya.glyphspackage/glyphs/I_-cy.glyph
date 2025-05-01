@@ -1,0 +1,27 @@
+{
+glyphname = "I-cy";
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = I;
+}
+);
+width = 361;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = I;
+}
+);
+width = 370;
+}
+);
+production = uni0406;
+unicode = 1030;
+}

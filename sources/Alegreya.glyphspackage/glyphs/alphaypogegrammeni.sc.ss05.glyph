@@ -1,0 +1,47 @@
+{
+color = 10;
+glyphname = alphaypogegrammeni.sc.ss05;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+anchors = (
+{
+name = top;
+pos = (255,497);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (510,0);
+ref = prosgegrammeni.sc;
+}
+);
+width = 829;
+},
+{
+anchors = (
+{
+name = top;
+pos = (255,497);
+}
+);
+layerId = UUID1;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (586,0);
+ref = prosgegrammeni.sc;
+}
+);
+width = 905;
+}
+);
+production = uni1FB3.sc.ss05;
+}

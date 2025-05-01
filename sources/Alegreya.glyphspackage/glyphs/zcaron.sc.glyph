@@ -1,0 +1,34 @@
+{
+color = 5;
+glyphname = zcaron.sc;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = z.sc;
+},
+{
+pos = (46,45);
+ref = caroncomb;
+}
+);
+width = 490;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = z.sc;
+},
+{
+pos = (57,31);
+ref = caroncomb;
+}
+);
+width = 510;
+}
+);
+}

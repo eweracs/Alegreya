@@ -1,0 +1,43 @@
+{
+color = 10;
+glyphname = quotedblright;
+kernLeft = asterisk;
+kernRight = asterisk;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (155,0);
+ref = quoteright;
+},
+{
+alignment = -1;
+ref = quoteright;
+}
+);
+width = 331;
+},
+{
+layerId = UUID1;
+metricLeft = "=quoteright";
+metricRight = "=quoteright";
+shapes = (
+{
+alignment = -1;
+pos = (215,0);
+ref = quoteright;
+},
+{
+alignment = -1;
+ref = quoteright;
+}
+);
+width = 478;
+}
+);
+metricLeft = quoteright;
+metricRight = quoteright;
+unicode = 8221;
+}

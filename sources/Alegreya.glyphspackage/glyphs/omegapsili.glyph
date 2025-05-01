@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = omegapsili;
+kernLeft = omega;
+kernRight = omega;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (132,0);
+ref = psili;
+}
+);
+width = 657;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (126,0);
+ref = psili;
+}
+);
+width = 630;
+}
+);
+production = uni1F60;
+unicode = 8032;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = "Zedescender-cy.loclBSH";
+kernLeft = "Zedescender-cy";
+kernRight = B;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "Zedescender-cy";
+}
+);
+width = 548;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "Zedescender-cy";
+}
+);
+width = 581;
+}
+);
+production = uni0498.loclBSH;
+}

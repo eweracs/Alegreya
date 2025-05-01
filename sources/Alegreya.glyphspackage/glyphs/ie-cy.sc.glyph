@@ -1,0 +1,26 @@
+{
+glyphname = "ie-cy.sc";
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e.sc;
+}
+);
+width = 508;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = e.sc;
+}
+);
+width = 516;
+}
+);
+production = uni0435.sc;
+}

@@ -1,0 +1,34 @@
+{
+glyphname = "odieresis-cy.sc";
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "o-cy.sc";
+},
+{
+pos = (94,45);
+ref = dieresiscomb;
+}
+);
+width = 585;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "o-cy.sc";
+},
+{
+pos = (78,31);
+ref = dieresiscomb;
+}
+);
+width = 554;
+}
+);
+production = uni04E7.sc;
+}

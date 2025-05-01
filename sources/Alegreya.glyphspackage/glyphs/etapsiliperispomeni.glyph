@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = etapsiliperispomeni;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (65,0);
+ref = psiliperispomeni;
+}
+);
+width = 515;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = eta;
+},
+{
+pos = (47,0);
+ref = psiliperispomeni;
+}
+);
+width = 508;
+}
+);
+production = uni1F26;
+unicode = 7974;
+}

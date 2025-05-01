@@ -1,0 +1,41 @@
+{
+color = 5;
+glyphname = germandbls.alt.sc;
+kernLeft = S;
+kernRight = S;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = s.sc;
+}
+);
+};
+layerId = UUID0;
+shapes = (
+{
+ref = s.sc;
+},
+{
+pos = (459,0);
+ref = s.sc;
+}
+);
+width = 918;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = s.sc;
+},
+{
+pos = (473,0);
+ref = s.sc;
+}
+);
+width = 946;
+}
+);
+}

@@ -1,0 +1,35 @@
+{
+glyphname = "yi-cy";
+kernLeft = n;
+kernRight = u;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-62,0);
+ref = dieresiscomb;
+}
+);
+width = 282;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-44,0);
+ref = dieresiscomb;
+}
+);
+width = 305;
+}
+);
+production = uni0457;
+unicode = 1111;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = "er-cy.sc";
+kernLeft = H;
+kernRight = P;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = p.sc;
+}
+);
+width = 479;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = p.sc;
+}
+);
+width = 523;
+}
+);
+production = uni0440.sc;
+}

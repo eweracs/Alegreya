@@ -1,0 +1,38 @@
+{
+color = 4;
+glyphname = odieresismacron;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o;
+},
+{
+alignment = 1;
+pos = (49,0);
+ref = dieresiscomb_macroncomb;
+}
+);
+width = 498;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = o;
+},
+{
+alignment = 1;
+pos = (70,0);
+ref = dieresiscomb_macroncomb;
+}
+);
+width = 538;
+}
+);
+production = uni022B;
+unicode = 555;
+}

@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = ydotbelow;
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = y;
+},
+{
+alignment = -1;
+pos = (145,0);
+ref = dotbelowcomb;
+}
+);
+width = 446;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = y;
+},
+{
+alignment = -1;
+pos = (305,0);
+ref = dotbelowcomb;
+}
+);
+width = 486;
+}
+);
+production = uni1EF5;
+unicode = 7925;
+}

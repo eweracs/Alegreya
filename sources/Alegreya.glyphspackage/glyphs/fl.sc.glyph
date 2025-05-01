@@ -1,0 +1,31 @@
+{
+glyphname = fl.sc;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = f.sc;
+},
+{
+pos = (446,0);
+ref = l.sc;
+}
+);
+width = 888;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = f.sc;
+},
+{
+pos = (478,0);
+ref = l.sc;
+}
+);
+width = 960;
+}
+);
+}

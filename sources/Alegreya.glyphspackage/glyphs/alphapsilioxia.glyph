@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = alphapsilioxia;
+kernLeft = alpha;
+kernRight = alpha;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (61,0);
+ref = psilioxia;
+}
+);
+width = 540;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = alpha;
+},
+{
+pos = (28,0);
+ref = psilioxia;
+}
+);
+width = 519;
+}
+);
+production = uni1F04;
+unicode = 7940;
+}

@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = ohorngrave.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = ohorn.sc;
+},
+{
+pos = (101,45);
+ref = gravecomb;
+}
+);
+width = 597;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = ohorn.sc;
+},
+{
+pos = (79,33);
+ref = gravecomb;
+}
+);
+width = 581;
+}
+);
+production = uni1EDD.sc;
+}

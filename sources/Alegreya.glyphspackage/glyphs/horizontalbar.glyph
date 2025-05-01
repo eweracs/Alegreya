@@ -1,0 +1,28 @@
+{
+color = 5;
+glyphname = horizontalbar;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = 1;
+ref = emdash;
+}
+);
+width = 918;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = 1;
+ref = emdash;
+}
+);
+width = 830;
+}
+);
+production = uni2015;
+unicode = 8213;
+}

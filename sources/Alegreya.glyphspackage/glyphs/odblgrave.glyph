@@ -1,0 +1,38 @@
+{
+color = 4;
+glyphname = odblgrave;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = o;
+},
+{
+alignment = 1;
+pos = (53,0);
+ref = dblgravecomb;
+}
+);
+width = 498;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = o;
+},
+{
+alignment = 1;
+pos = (59,0);
+ref = dblgravecomb;
+}
+);
+width = 538;
+}
+);
+production = uni020D;
+unicode = 525;
+}

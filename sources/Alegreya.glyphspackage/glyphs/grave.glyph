@@ -1,0 +1,27 @@
+{
+color = 4;
+glyphname = grave;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = 1;
+ref = gravecomb;
+}
+);
+width = 398;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = 1;
+ref = gravecomb;
+}
+);
+width = 398;
+}
+);
+unicode = 96;
+}

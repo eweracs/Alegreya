@@ -1,0 +1,37 @@
+{
+color = 1;
+export = 0;
+glyphname = spacingGlyph;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(445,-230,l),
+(445,730,l),
+(0,730,l),
+(0,-230,l)
+);
+}
+);
+width = 445;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(415,-230,l),
+(415,730,l),
+(0,730,l),
+(0,-230,l)
+);
+}
+);
+width = 415;
+}
+);
+}

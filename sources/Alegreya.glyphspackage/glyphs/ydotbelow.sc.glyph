@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = ydotbelow.sc;
+kernLeft = Y;
+kernRight = Y;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (36,0);
+ref = dotbelowcomb;
+}
+);
+width = 475;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = y.sc;
+},
+{
+pos = (166,0);
+ref = dotbelowcomb;
+}
+);
+width = 578;
+}
+);
+production = uni1EF5.sc;
+}

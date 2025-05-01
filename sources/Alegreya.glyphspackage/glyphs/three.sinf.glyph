@@ -1,0 +1,26 @@
+{
+color = 4;
+glyphname = three.sinf;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = threeinferior;
+}
+);
+width = 293;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = threeinferior;
+}
+);
+width = 329;
+}
+);
+metricLeft = threeinferior;
+metricRight = threeinferior;
+}

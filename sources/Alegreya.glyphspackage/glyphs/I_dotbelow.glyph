@@ -1,0 +1,38 @@
+{
+color = 10;
+glyphname = Idotbelow;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = I;
+},
+{
+alignment = 1;
+pos = (-21,0);
+ref = dotbelowcomb;
+}
+);
+width = 361;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = I;
+},
+{
+alignment = 1;
+pos = (62,0);
+ref = dotbelowcomb;
+}
+);
+width = 370;
+}
+);
+production = uni1ECA;
+unicode = 7882;
+}

@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = abrevehookabove;
+kernLeft = a;
+kernRight = n;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (37,-55);
+ref = brevecomb_hookabovecomb;
+}
+);
+width = 466;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (37,-18);
+ref = brevecomb_hookabovecomb;
+}
+);
+width = 494;
+}
+);
+production = uni1EB3;
+unicode = 7859;
+}

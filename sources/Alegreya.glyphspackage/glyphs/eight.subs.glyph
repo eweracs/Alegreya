@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = eight.subs;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = eight.sinf;
+}
+);
+width = 327;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = eight.sinf;
+}
+);
+width = 346;
+}
+);
+metricLeft = eight.sinf;
+metricRight = eight.sinf;
+}

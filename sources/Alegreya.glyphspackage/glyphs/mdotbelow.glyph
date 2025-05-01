@@ -1,0 +1,36 @@
+{
+color = 5;
+glyphname = mdotbelow;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = m;
+},
+{
+pos = (236,0);
+ref = dotbelowcomb;
+}
+);
+width = 832;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = m;
+},
+{
+pos = (315,0);
+ref = dotbelowcomb;
+}
+);
+width = 846;
+}
+);
+production = uni1E43;
+unicode = 7747;
+}

@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = secondtonechinese;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 398;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = acutecomb;
+}
+);
+width = 600;
+}
+);
+production = uni02CA;
+unicode = 714;
+}

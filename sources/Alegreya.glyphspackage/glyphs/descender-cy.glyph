@@ -1,0 +1,70 @@
+{
+color = 1;
+export = 0;
+glyphname = "descender-cy";
+layers = (
+{
+anchors = (
+{
+name = _bottomright;
+pos = (88,87);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(171,-133,l),
+(166,-78,o),
+(163,-20,o),
+(163,36,c),
+(157,43,l),
+(113,45,ls),
+(94,46,o),
+(88,61,o),
+(88,87,c),
+(30,0,l),
+(80,0,o),
+(102,-10,o),
+(110,-53,cs),
+(125,-136,l)
+);
+}
+);
+width = 239;
+},
+{
+anchors = (
+{
+name = _bottomright;
+pos = (133,134);
+}
+);
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(201,-130,l),
+(195,-65,o),
+(193,1,o),
+(194,70,c),
+(189,81,l),
+(168,82,ls),
+(139,83,o),
+(133,92,o),
+(133,134,c),
+(-12,0,l),
+(45,0,o),
+(67,-14,o),
+(76,-57,cs),
+(93,-138,l)
+);
+}
+);
+width = 230;
+}
+);
+production = descendercy;
+}

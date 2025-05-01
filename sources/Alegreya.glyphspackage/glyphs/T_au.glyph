@@ -1,0 +1,27 @@
+{
+color = 10;
+glyphname = Tau;
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = T;
+}
+);
+width = 546;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = T;
+}
+);
+width = 593;
+}
+);
+unicode = 932;
+}

@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = Ebreve;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (128,175);
+ref = brevecomb;
+}
+);
+width = 591;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = E;
+},
+{
+alignment = -1;
+pos = (128,165);
+ref = brevecomb;
+}
+);
+width = 603;
+}
+);
+unicode = 276;
+}

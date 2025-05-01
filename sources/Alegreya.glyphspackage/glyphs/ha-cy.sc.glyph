@@ -1,0 +1,26 @@
+{
+glyphname = "ha-cy.sc";
+kernLeft = X;
+kernRight = X;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = x.sc;
+}
+);
+width = 566;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = x.sc;
+}
+);
+width = 610;
+}
+);
+production = uni0445.sc;
+}

@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = etilde.sc;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (56,45);
+ref = tildecomb;
+}
+);
+width = 508;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = e.sc;
+},
+{
+pos = (69,31);
+ref = tildecomb;
+}
+);
+width = 516;
+}
+);
+production = uni1EBD.sc;
+}

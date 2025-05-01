@@ -1,0 +1,29 @@
+{
+glyphname = "ghestroke-cy.loclBSH.sc";
+layers = (
+{
+layerId = UUID1;
+shapes = (
+{
+ref = f.sc;
+}
+);
+width = 478;
+},
+{
+layerId = UUID0;
+shapes = (
+{
+ref = f.sc;
+}
+);
+width = 446;
+}
+);
+production = uni0493.loclBSH.sc;
+userData = {
+RMXScaler = {
+source = "Ghestroke-cy.loclBSH";
+};
+};
+}

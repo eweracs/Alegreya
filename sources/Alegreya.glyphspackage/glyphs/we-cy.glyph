@@ -1,0 +1,27 @@
+{
+glyphname = "we-cy";
+kernLeft = v;
+kernRight = v;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = w;
+}
+);
+width = 705;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = w;
+}
+);
+width = 777;
+}
+);
+production = uni051D;
+unicode = 1309;
+}

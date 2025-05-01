@@ -1,0 +1,38 @@
+{
+color = 5;
+glyphname = Emacrongrave;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = E;
+},
+{
+alignment = 1;
+pos = (126,10);
+ref = macroncomb_gravecomb.case;
+}
+);
+width = 591;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = E;
+},
+{
+alignment = 1;
+pos = (120,0);
+ref = macroncomb_gravecomb.case;
+}
+);
+width = 603;
+}
+);
+production = uni1E14;
+unicode = 7700;
+}

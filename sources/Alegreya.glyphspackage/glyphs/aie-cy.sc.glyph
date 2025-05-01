@@ -1,0 +1,26 @@
+{
+glyphname = "aie-cy.sc";
+kernLeft = A;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = ae.sc;
+}
+);
+width = 699;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = ae.sc;
+}
+);
+width = 807;
+}
+);
+production = uni04D5.sc;
+}

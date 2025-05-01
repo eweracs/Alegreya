@@ -1,0 +1,35 @@
+{
+glyphname = "Odieresis-cy";
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "O-cy";
+},
+{
+pos = (147,0);
+ref = dieresiscomb.case;
+}
+);
+width = 692;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "O-cy";
+},
+{
+pos = (129,0);
+ref = dieresiscomb.case;
+}
+);
+width = 655;
+}
+);
+production = uni04E6;
+unicode = 1254;
+}

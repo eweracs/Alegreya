@@ -1,0 +1,26 @@
+{
+glyphname = "te-cy.sc";
+kernLeft = T;
+kernRight = T;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = t.sc;
+}
+);
+width = 474;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = t.sc;
+}
+);
+width = 511;
+}
+);
+production = uni0442.sc;
+}

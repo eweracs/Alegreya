@@ -1,0 +1,180 @@
+{
+color = 11;
+glyphname = oslash.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(412,440,l),
+(382,454,l),
+(160,62,l),
+(189,48,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(189,48,l),
+(160,62,l),
+(90,-62,l),
+(92,-70,l),
+(117,-77,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(467,535,l),
+(465,545,l),
+(438,553,l),
+(382,454,l),
+(412,440,l)
+);
+},
+{
+ref = o.sc;
+}
+);
+width = 585;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(432,360,l),
+(339,431,l),
+(129,141,l),
+(220,71,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(220,71,l),
+(129,141,l),
+(-4,-32,l),
+(-1,-40,l),
+(93,-97,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(559,533,l),
+(558,544,l),
+(462,599,l),
+(339,431,l),
+(432,360,l)
+);
+},
+{
+ref = o.sc;
+}
+);
+width = 554;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (293,0);
+},
+{
+name = top;
+pos = (293,497);
+}
+);
+associatedMasterId = UUID0;
+attr = {
+axisRules = (
+{
+min = 130;
+}
+);
+};
+layerId = "A502E7F9-5B1C-4FB5-ACD0-CB0F5E07B131";
+name = "Regular [130]";
+shapes = (
+{
+closed = 1;
+nodes = (
+(467,535,l),
+(465,545,l),
+(438,553,l),
+(382,454,l),
+(412,440,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(90,-62,l),
+(92,-70,l),
+(117,-77,l),
+(189,48,l),
+(160,62,l)
+);
+},
+{
+ref = o.sc;
+}
+);
+width = 585;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (277,0);
+},
+{
+name = top;
+pos = (277,503);
+}
+);
+associatedMasterId = UUID1;
+attr = {
+axisRules = (
+{
+min = 130;
+}
+);
+};
+layerId = "BBEA0EDC-835E-40BC-ACEE-23B5167F1877";
+name = "Bold [130]";
+shapes = (
+{
+closed = 1;
+nodes = (
+(559,533,l),
+(558,544,l),
+(462,599,l),
+(339,431,l),
+(432,360,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-4,-32,l),
+(-1,-40,l),
+(93,-97,l),
+(220,71,l),
+(129,141,l)
+);
+},
+{
+ref = o.sc;
+}
+);
+width = 554;
+}
+);
+}

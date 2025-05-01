@@ -1,0 +1,32 @@
+{
+color = 10;
+glyphname = "o-cy";
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (4,0);
+ref = o;
+}
+);
+width = 506;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (-17,0);
+ref = o;
+}
+);
+width = 504;
+}
+);
+production = uni043E;
+unicode = 1086;
+}

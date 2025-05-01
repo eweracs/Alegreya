@@ -1,0 +1,27 @@
+{
+color = 10;
+glyphname = "Ghestroke-cy.loclBSH";
+kernLeft = H;
+kernRight = F;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = F;
+}
+);
+width = 512;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = F;
+}
+);
+width = 554;
+}
+);
+production = uni0492.loclBSH;
+}

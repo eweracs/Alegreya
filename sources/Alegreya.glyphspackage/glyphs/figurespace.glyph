@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = figurespace;
+layers = (
+{
+layerId = UUID0;
+width = 450;
+},
+{
+layerId = UUID1;
+width = 450;
+}
+);
+production = uni2007;
+unicode = 8199;
+}

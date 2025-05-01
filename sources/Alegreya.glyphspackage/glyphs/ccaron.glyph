@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = ccaron;
+kernLeft = o;
+kernRight = c;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = c;
+},
+{
+alignment = -1;
+pos = (46,0);
+ref = caroncomb;
+}
+);
+width = 424;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = c;
+},
+{
+alignment = -1;
+pos = (64,0);
+ref = caroncomb;
+}
+);
+width = 440;
+}
+);
+unicode = 269;
+}

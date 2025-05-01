@@ -1,0 +1,58 @@
+{
+color = 1;
+glyphname = whiteSquare;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(400,61,l),
+(400,397,l),
+(64,397,l),
+(64,61,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(104,357,l),
+(360,357,l),
+(360,101,l),
+(104,101,l)
+);
+}
+);
+width = 464;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(424,51,l),
+(424,407,l),
+(68,407,l),
+(68,51,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(128,347,l),
+(364,347,l),
+(364,111,l),
+(128,111,l)
+);
+}
+);
+width = 492;
+}
+);
+metricLeft = "=blackSquare";
+metricRight = "=blackSquare";
+production = uni25A1;
+unicode = 9633;
+}

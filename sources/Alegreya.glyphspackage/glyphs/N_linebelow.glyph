@@ -1,0 +1,38 @@
+{
+color = 5;
+glyphname = Nlinebelow;
+kernLeft = H;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = N;
+},
+{
+alignment = 1;
+pos = (160,0);
+ref = macronbelowcomb;
+}
+);
+width = 719;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = N;
+},
+{
+alignment = 1;
+pos = (166,0);
+ref = macronbelowcomb;
+}
+);
+width = 739;
+}
+);
+production = uni1E48;
+unicode = 7752;
+}

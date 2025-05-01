@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = etaypogegrammeni.sc.ss05;
+kernLeft = H;
+kernRight = iota;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (639,0);
+ref = prosgegrammeni.sc;
+}
+);
+width = 958;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = h.sc;
+},
+{
+pos = (625,0);
+ref = prosgegrammeni.sc;
+}
+);
+width = 944;
+}
+);
+production = uni1FC3.sc.ss05;
+}

@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = Alphatonos;
+kernLeft = Alphatonos;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = Alpha;
+},
+{
+pos = (-96,-37);
+ref = tonos;
+}
+);
+width = 644;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (80,0);
+ref = Alpha;
+},
+{
+pos = (-138,-112);
+ref = tonos;
+}
+);
+width = 756;
+}
+);
+unicode = 902;
+}

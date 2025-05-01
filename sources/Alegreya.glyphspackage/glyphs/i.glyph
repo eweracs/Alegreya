@@ -1,0 +1,62 @@
+{
+glyphname = i;
+kernLeft = n;
+kernRight = i;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (159,0);
+},
+{
+name = ogonek;
+pos = (159,49);
+},
+{
+name = top;
+pos = (136,472);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-62,0);
+ref = dotaccentcomb;
+}
+);
+width = 282;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (159,0);
+},
+{
+name = ogonek;
+pos = (159,49);
+},
+{
+name = top;
+pos = (159,472);
+}
+);
+layerId = UUID1;
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (-44,0);
+ref = dotaccentcomb;
+}
+);
+width = 305;
+}
+);
+unicode = 105;
+}

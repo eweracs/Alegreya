@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = obreve;
+kernLeft = o;
+kernRight = o;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (65,0);
+ref = brevecomb;
+}
+);
+width = 498;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = o;
+},
+{
+alignment = -1;
+pos = (65,0);
+ref = brevecomb;
+}
+);
+width = 509;
+}
+);
+unicode = 335;
+}

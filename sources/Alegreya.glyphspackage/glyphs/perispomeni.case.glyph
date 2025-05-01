@@ -1,0 +1,47 @@
+{
+color = 10;
+glyphname = perispomeni.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (200,637);
+},
+{
+name = _topleft;
+pos = (226,673);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = tilde;
+}
+);
+width = 398;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (199,647);
+},
+{
+name = _topleft;
+pos = (226,723);
+}
+);
+layerId = UUID1;
+shapes = (
+{
+ref = tilde;
+}
+);
+width = 398;
+}
+);
+metricLeft = tilde;
+metricRight = tilde;
+production = uni1FC0.case;
+}

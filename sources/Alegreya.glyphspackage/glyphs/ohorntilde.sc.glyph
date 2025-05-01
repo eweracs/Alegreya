@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = ohorntilde.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = ohorn.sc;
+},
+{
+pos = (99,45);
+ref = tildecomb;
+}
+);
+width = 597;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = ohorn.sc;
+},
+{
+pos = (82,33);
+ref = tildecomb;
+}
+);
+width = 581;
+}
+);
+production = uni1EE1.sc;
+}

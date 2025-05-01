@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = rhopsili.sc;
+kernLeft = H;
+kernRight = P;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = p.sc;
+},
+{
+pos = (42,45);
+ref = psili;
+}
+);
+width = 479;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = p.sc;
+},
+{
+pos = (92,31);
+ref = psili;
+}
+);
+width = 523;
+}
+);
+production = uni1FE4.sc;
+}

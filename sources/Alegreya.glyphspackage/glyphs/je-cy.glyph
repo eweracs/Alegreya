@@ -1,0 +1,27 @@
+{
+glyphname = "je-cy";
+kernLeft = j;
+kernRight = j;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = j;
+}
+);
+width = 250;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = j;
+}
+);
+width = 301;
+}
+);
+production = uni0458;
+unicode = 1112;
+}

@@ -1,0 +1,76 @@
+{
+color = 1;
+glyphname = varia;
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (202,452);
+},
+{
+name = _topleft;
+pos = (195,691);
+},
+{
+name = top;
+pos = (197,730);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(236,511,l),
+(210,576,o),
+(188,639,o),
+(167,705,c),
+(158,706,l),
+(107,680,l),
+(105,670,l),
+(196,500,l),
+(205,499,l)
+);
+}
+);
+width = 398;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (197,472);
+},
+{
+name = _topleft;
+pos = (210,759);
+},
+{
+name = top;
+pos = (197,771);
+}
+);
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(283,551,l),
+(250,621,o),
+(219,691,o),
+(191,765,c),
+(176,771,l),
+(69,708,l),
+(64,692,l),
+(197,514,l),
+(220,512,l)
+);
+}
+);
+width = 398;
+}
+);
+production = uni1FEF;
+unicode = 8175;
+}

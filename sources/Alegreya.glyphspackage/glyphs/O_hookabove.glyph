@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = Ohookabove;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (152,140);
+ref = hookabovecomb;
+}
+);
+width = 692;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (135,145);
+ref = hookabovecomb;
+}
+);
+width = 655;
+}
+);
+production = uni1ECE;
+unicode = 7886;
+}

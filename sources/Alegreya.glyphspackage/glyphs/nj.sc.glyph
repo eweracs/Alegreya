@@ -1,0 +1,35 @@
+{
+color = 5;
+glyphname = nj.sc;
+kernLeft = H;
+kernRight = J;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = n.sc;
+},
+{
+pos = (614,0);
+ref = j.sc;
+}
+);
+width = 906;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = n.sc;
+},
+{
+pos = (630,0);
+ref = j.sc;
+}
+);
+width = 927;
+}
+);
+production = uni01CC.sc;
+}

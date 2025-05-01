@@ -1,0 +1,41 @@
+{
+color = 10;
+glyphname = Alphadasiaperispomeniprosgegrammeni.ss05;
+kernLeft = Alphatonos;
+kernRight = iota;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (60,0);
+ref = Alphaprosgegrammeni.ss05;
+},
+{
+pos = (-37,-36);
+ref = dasiaperispomeni.case;
+}
+);
+width = 972;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (134,0);
+ref = Alphaprosgegrammeni.ss05;
+},
+{
+pos = (-59,-76);
+ref = dasiaperispomeni.case;
+}
+);
+width = 1080;
+}
+);
+metricLeft = "=Alphatonos";
+metricRight = "=iota";
+production = uni1F8F.ss05;
+}

@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Omicronpsili;
+kernLeft = Omicrontonos;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (45,0);
+ref = Omicron;
+},
+{
+pos = (-149,-36);
+ref = psili.case;
+}
+);
+width = 737;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (164,0);
+ref = Omicron;
+},
+{
+pos = (-101,-76);
+ref = psili.case;
+}
+);
+width = 819;
+}
+);
+metricLeft = "=Omicrontonos";
+metricRight = Omicron;
+production = uni1F48;
+unicode = 8008;
+}

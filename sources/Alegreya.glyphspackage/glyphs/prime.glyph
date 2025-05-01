@@ -1,0 +1,26 @@
+{
+color = 5;
+glyphname = prime;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = 1;
+ref = primemod;
+}
+);
+width = 176;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = 1;
+ref = primemod;
+}
+);
+width = 176;
+}
+);
+}

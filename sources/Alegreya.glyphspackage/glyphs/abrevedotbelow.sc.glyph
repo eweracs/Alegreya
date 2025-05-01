@@ -1,0 +1,43 @@
+{
+color = 10;
+glyphname = abrevedotbelow.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (53,0);
+ref = dotbelowcomb;
+},
+{
+pos = (56,45);
+ref = brevecomb;
+}
+);
+width = 510;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (170,0);
+ref = dotbelowcomb;
+},
+{
+pos = (94,31);
+ref = brevecomb;
+}
+);
+width = 586;
+}
+);
+production = uni1EB7.sc;
+}

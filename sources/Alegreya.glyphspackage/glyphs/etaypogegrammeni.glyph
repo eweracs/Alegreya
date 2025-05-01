@@ -1,0 +1,38 @@
+{
+color = 10;
+glyphname = etaypogegrammeni;
+kernLeft = n;
+kernRight = n;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = eta;
+},
+{
+alignment = -1;
+pos = (-21,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 515;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = eta;
+},
+{
+alignment = -1;
+pos = (-42,0);
+ref = ypogegrammenicomb;
+}
+);
+width = 508;
+}
+);
+production = uni1FC3;
+unicode = 8131;
+}

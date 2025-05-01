@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = omicronpsili.sc;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = omicron.sc;
+},
+{
+pos = (95,45);
+ref = psili;
+}
+);
+width = 585;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = omicron.sc;
+},
+{
+pos = (107,31);
+ref = psili;
+}
+);
+width = 554;
+}
+);
+production = uni1F40.sc;
+}

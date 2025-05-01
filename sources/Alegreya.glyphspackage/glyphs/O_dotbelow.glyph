@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = Odotbelow;
+kernLeft = O;
+kernRight = O;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (145,0);
+ref = dotbelowcomb;
+}
+);
+width = 692;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = O;
+},
+{
+alignment = -1;
+pos = (207,0);
+ref = dotbelowcomb;
+}
+);
+width = 655;
+}
+);
+production = uni1ECC;
+unicode = 7884;
+}

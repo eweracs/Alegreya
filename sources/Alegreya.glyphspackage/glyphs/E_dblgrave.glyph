@@ -1,0 +1,38 @@
+{
+color = 4;
+glyphname = Edblgrave;
+kernLeft = H;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = E;
+},
+{
+alignment = 1;
+pos = (44,0);
+ref = dblgravecomb.case;
+}
+);
+width = 591;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = E;
+},
+{
+alignment = 1;
+pos = (70,0);
+ref = dblgravecomb.case;
+}
+);
+width = 603;
+}
+);
+production = uni0204;
+unicode = 516;
+}

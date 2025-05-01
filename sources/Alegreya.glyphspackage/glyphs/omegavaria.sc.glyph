@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = omegavaria.sc;
+kernLeft = Omega;
+kernRight = Omega;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = omega.sc;
+},
+{
+pos = (134,45);
+ref = varia;
+}
+);
+width = 673;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = omega.sc;
+},
+{
+pos = (111,31);
+ref = varia;
+}
+);
+width = 630;
+}
+);
+production = uni1F7C.sc;
+}

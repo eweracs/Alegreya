@@ -1,0 +1,35 @@
+{
+color = 5;
+glyphname = adblgrave.sc;
+kernLeft = A;
+kernRight = A;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (59,45);
+ref = dblgravecomb;
+}
+);
+width = 510;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = a.sc;
+},
+{
+pos = (83,31);
+ref = dblgravecomb;
+}
+);
+width = 586;
+}
+);
+production = uni0201.sc;
+}

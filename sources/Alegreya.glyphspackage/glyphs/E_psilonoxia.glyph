@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Epsilonoxia;
+kernLeft = asterisk;
+kernRight = E;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (100,0);
+ref = Epsilon;
+},
+{
+pos = (-161,-37);
+ref = oxia;
+}
+);
+width = 691;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (220,0);
+ref = Epsilon;
+},
+{
+pos = (-134,-112);
+ref = oxia;
+}
+);
+width = 823;
+}
+);
+metricLeft = "=Etatonos";
+metricRight = E;
+production = uni1FC9;
+unicode = 8137;
+}

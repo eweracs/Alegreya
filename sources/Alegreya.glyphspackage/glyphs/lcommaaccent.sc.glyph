@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = lcommaaccent.sc;
+kernLeft = H;
+kernRight = L;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = l.sc;
+},
+{
+alignment = -1;
+pos = (66,0);
+ref = commaaccentcomb;
+}
+);
+width = 442;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = l.sc;
+},
+{
+alignment = -1;
+pos = (54,0);
+ref = commaaccentcomb;
+}
+);
+width = 482;
+}
+);
+production = uni013C.sc;
+}

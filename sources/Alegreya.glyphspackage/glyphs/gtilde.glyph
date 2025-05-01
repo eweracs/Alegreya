@@ -1,0 +1,36 @@
+{
+color = 10;
+glyphname = gtilde;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = g;
+},
+{
+alignment = -1;
+pos = (66,0);
+ref = tilde;
+}
+);
+width = 501;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = g;
+},
+{
+alignment = -1;
+pos = (78,0);
+ref = tilde;
+}
+);
+width = 522;
+}
+);
+}

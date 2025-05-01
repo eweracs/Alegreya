@@ -1,0 +1,40 @@
+{
+color = 10;
+glyphname = abreveacute;
+kernLeft = a;
+kernRight = n;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (37,-55);
+ref = brevecomb_acutecomb;
+}
+);
+width = 466;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (37,-18);
+ref = brevecomb_acutecomb;
+}
+);
+width = 494;
+}
+);
+production = uni1EAF;
+unicode = 7855;
+}

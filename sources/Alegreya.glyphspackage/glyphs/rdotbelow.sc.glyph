@@ -1,0 +1,35 @@
+{
+color = 5;
+glyphname = rdotbelow.sc;
+kernLeft = H;
+kernRight = R;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = r.sc;
+},
+{
+pos = (83,0);
+ref = dotbelowcomb;
+}
+);
+width = 529;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = r.sc;
+},
+{
+pos = (169,0);
+ref = dotbelowcomb;
+}
+);
+width = 584;
+}
+);
+production = uni1E5B.sc;
+}

@@ -1,0 +1,38 @@
+{
+color = 10;
+glyphname = ubreve.sc;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = u.sc;
+},
+{
+alignment = -1;
+pos = (85,35);
+ref = brevecomb;
+}
+);
+width = 575;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = u.sc;
+},
+{
+alignment = -1;
+pos = (74,21);
+ref = brevecomb;
+}
+);
+width = 528;
+}
+);
+}

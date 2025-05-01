@@ -1,0 +1,51 @@
+{
+color = 1;
+glyphname = quotesingle;
+kernLeft = asterisk;
+kernRight = asterisk;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+closed = 1;
+nodes = (
+(96,429,l),
+(117,531,o),
+(131,641,o),
+(131,641,c),
+(124,649,l),
+(54,635,l),
+(54,635,o),
+(64,527,o),
+(60,417,c),
+(71,415,l)
+);
+}
+);
+width = 176;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+closed = 1;
+nodes = (
+(124,426,l),
+(150,538,o),
+(166,647,o),
+(166,647,c),
+(157,659,l),
+(23,645,l),
+(23,645,o),
+(34,527,o),
+(32,407,c),
+(51,401,l)
+);
+}
+);
+width = 176;
+}
+);
+unicode = 39;
+}

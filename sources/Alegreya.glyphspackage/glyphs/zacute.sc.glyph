@@ -1,0 +1,34 @@
+{
+color = 5;
+glyphname = zacute.sc;
+kernLeft = Z;
+kernRight = Z;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = z.sc;
+},
+{
+pos = (17,45);
+ref = acutecomb;
+}
+);
+width = 490;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = z.sc;
+},
+{
+pos = (18,31);
+ref = acutecomb;
+}
+);
+width = 510;
+}
+);
+}

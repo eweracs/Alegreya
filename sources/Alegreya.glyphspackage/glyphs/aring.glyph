@@ -1,0 +1,39 @@
+{
+color = 10;
+glyphname = aring;
+kernLeft = a;
+kernRight = n;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (19,0);
+ref = ringcomb;
+}
+);
+width = 466;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+ref = a;
+},
+{
+alignment = -1;
+pos = (42,2);
+ref = ringcomb;
+}
+);
+width = 494;
+}
+);
+unicode = 229;
+}

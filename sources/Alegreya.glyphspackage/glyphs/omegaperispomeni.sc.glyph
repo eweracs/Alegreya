@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = omegaperispomeni.sc;
+kernLeft = Omega;
+kernRight = Omega;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = omega.sc;
+},
+{
+pos = (141,25);
+ref = perispomeni;
+}
+);
+width = 673;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = omega.sc;
+},
+{
+pos = (113,31);
+ref = perispomeni;
+}
+);
+width = 630;
+}
+);
+production = uni1FF6.sc;
+}

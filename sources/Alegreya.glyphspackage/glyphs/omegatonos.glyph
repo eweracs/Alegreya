@@ -1,0 +1,35 @@
+{
+color = 10;
+glyphname = omegatonos;
+kernLeft = omega;
+kernRight = omega;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (132,0);
+ref = tonos;
+}
+);
+width = 657;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = omega;
+},
+{
+pos = (108,0);
+ref = tonos;
+}
+);
+width = 630;
+}
+);
+unicode = 974;
+}

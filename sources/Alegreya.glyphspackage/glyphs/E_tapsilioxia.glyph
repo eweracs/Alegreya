@@ -1,0 +1,42 @@
+{
+color = 10;
+glyphname = Etapsilioxia;
+kernLeft = asterisk;
+kernRight = H;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+alignment = -1;
+pos = (229,0);
+ref = Eta;
+},
+{
+pos = (-93,-36);
+ref = psilioxia.case;
+}
+);
+width = 983;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+alignment = -1;
+pos = (391,0);
+ref = Eta;
+},
+{
+pos = (-35,-76);
+ref = psilioxia.case;
+}
+);
+width = 1130;
+}
+);
+metricLeft = "=Etatonos";
+metricRight = H;
+production = uni1F2C;
+unicode = 7980;
+}

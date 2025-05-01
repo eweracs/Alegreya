@@ -1,0 +1,16 @@
+{
+color = 5;
+glyphname = thinspace;
+layers = (
+{
+layerId = UUID0;
+width = 130;
+},
+{
+layerId = UUID1;
+width = 100;
+}
+);
+production = uni2009;
+unicode = 8201;
+}

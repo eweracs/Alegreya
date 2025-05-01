@@ -1,0 +1,35 @@
+{
+glyphname = "Umacron-cy";
+kernLeft = "U-cy";
+kernRight = V;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = "U-cy";
+},
+{
+pos = (109,0);
+ref = macroncomb.case;
+}
+);
+width = 578;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = "U-cy";
+},
+{
+pos = (118,0);
+ref = macroncomb.case;
+}
+);
+width = 607;
+}
+);
+production = uni04EE;
+unicode = 1262;
+}

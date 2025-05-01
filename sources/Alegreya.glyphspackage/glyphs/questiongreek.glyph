@@ -1,0 +1,28 @@
+{
+color = 10;
+glyphname = questiongreek;
+layers = (
+{
+layerId = UUID0;
+shapes = (
+{
+ref = semicolon;
+}
+);
+width = 238;
+},
+{
+layerId = UUID1;
+shapes = (
+{
+ref = semicolon;
+}
+);
+width = 238;
+}
+);
+metricLeft = "=semicolon";
+metricRight = "=semicolon";
+production = uni037E;
+unicode = 894;
+}
